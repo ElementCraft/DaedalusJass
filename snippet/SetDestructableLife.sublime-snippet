@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetDestructableLife</name>
+	<content><![CDATA[SetDestructableLife( ${1:d}, ${2:life})]]></content>
+	<tabTrigger>SetDestructableLife</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

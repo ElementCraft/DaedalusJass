@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetSpellTargetY</name>
+	<content><![CDATA[GetSpellTargetY()]]></content>
+	<tabTrigger>GetSpellTargetY</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

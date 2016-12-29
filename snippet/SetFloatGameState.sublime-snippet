@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetFloatGameState</name>
+	<content><![CDATA[SetFloatGameState( ${1:whichFloatGameState}, ${2:value})]]></content>
+	<tabTrigger>SetFloatGameState</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

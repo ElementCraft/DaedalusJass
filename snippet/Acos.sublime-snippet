@@ -1,0 +1,6 @@
+<snippet>
+	<name>Acos</name>
+	<content><![CDATA[Acos( ${1:x})]]></content>
+	<tabTrigger>Acos</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

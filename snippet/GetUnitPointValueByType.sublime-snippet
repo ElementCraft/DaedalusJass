@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetUnitPointValueByType</name>
+	<content><![CDATA[GetUnitPointValueByType( ${1:unitType})]]></content>
+	<tabTrigger>GetUnitPointValueByType</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

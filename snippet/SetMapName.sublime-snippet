@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetMapName</name>
+	<content><![CDATA[SetMapName( ${1:name})]]></content>
+	<tabTrigger>SetMapName</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

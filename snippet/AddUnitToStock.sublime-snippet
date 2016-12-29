@@ -1,0 +1,6 @@
+<snippet>
+	<name>AddUnitToStock</name>
+	<content><![CDATA[AddUnitToStock( ${1:whichUnit}, ${2:unitId}, ${3:currentStock}, ${4:stockMax})]]></content>
+	<tabTrigger>AddUnitToStock</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

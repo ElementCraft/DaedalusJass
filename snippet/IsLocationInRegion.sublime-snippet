@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsLocationInRegion</name>
+	<content><![CDATA[IsLocationInRegion( ${1:whichRegion}, ${2:whichLocation})]]></content>
+	<tabTrigger>IsLocationInRegion</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

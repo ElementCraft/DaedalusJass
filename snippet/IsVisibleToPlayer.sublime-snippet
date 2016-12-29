@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsVisibleToPlayer</name>
+	<content><![CDATA[IsVisibleToPlayer( ${1:x}, ${2:y}, ${3:whichPlayer})]]></content>
+	<tabTrigger>IsVisibleToPlayer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

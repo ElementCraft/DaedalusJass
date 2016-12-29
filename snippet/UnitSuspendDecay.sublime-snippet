@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitSuspendDecay</name>
+	<content><![CDATA[UnitSuspendDecay( ${1:whichUnit}, ${2:suspend})]]></content>
+	<tabTrigger>UnitSuspendDecay</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

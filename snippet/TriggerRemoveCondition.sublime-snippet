@@ -1,0 +1,6 @@
+<snippet>
+	<name>TriggerRemoveCondition</name>
+	<content><![CDATA[TriggerRemoveCondition( ${1:whichTrigger}, ${2:whichCondition})]]></content>
+	<tabTrigger>TriggerRemoveCondition</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

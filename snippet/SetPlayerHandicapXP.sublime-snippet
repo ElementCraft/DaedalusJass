@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetPlayerHandicapXP</name>
+	<content><![CDATA[SetPlayerHandicapXP( ${1:whichPlayer}, ${2:handicap})]]></content>
+	<tabTrigger>SetPlayerHandicapXP</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>TimerDialogSetRealTimeRemaining</name>
+	<content><![CDATA[TimerDialogSetRealTimeRemaining( ${1:whichDialog}, ${2:timeRemaining})]]></content>
+	<tabTrigger>TimerDialogSetRealTimeRemaining</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

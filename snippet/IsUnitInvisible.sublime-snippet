@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsUnitInvisible</name>
+	<content><![CDATA[IsUnitInvisible( ${1:whichUnit}, ${2:whichPlayer})]]></content>
+	<tabTrigger>IsUnitInvisible</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

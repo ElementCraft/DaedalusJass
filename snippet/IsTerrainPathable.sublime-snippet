@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsTerrainPathable</name>
+	<content><![CDATA[IsTerrainPathable( ${1:x}, ${2:y}, ${3:t})]]></content>
+	<tabTrigger>IsTerrainPathable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

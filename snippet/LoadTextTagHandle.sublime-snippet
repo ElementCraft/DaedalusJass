@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadTextTagHandle</name>
+	<content><![CDATA[LoadTextTagHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadTextTagHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

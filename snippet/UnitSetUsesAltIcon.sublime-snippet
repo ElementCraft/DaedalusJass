@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitSetUsesAltIcon</name>
+	<content><![CDATA[UnitSetUsesAltIcon( ${1:whichUnit}, ${2:flag})]]></content>
+	<tabTrigger>UnitSetUsesAltIcon</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

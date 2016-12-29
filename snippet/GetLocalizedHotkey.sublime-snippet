@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetLocalizedHotkey</name>
+	<content><![CDATA[GetLocalizedHotkey( ${1:source})]]></content>
+	<tabTrigger>GetLocalizedHotkey</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

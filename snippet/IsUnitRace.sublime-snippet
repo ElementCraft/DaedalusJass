@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsUnitRace</name>
+	<content><![CDATA[IsUnitRace( ${1:whichUnit}, ${2:whichRace})]]></content>
+	<tabTrigger>IsUnitRace</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

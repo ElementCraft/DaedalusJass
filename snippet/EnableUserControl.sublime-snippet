@@ -1,0 +1,6 @@
+<snippet>
+	<name>EnableUserControl</name>
+	<content><![CDATA[EnableUserControl( ${1:b})]]></content>
+	<tabTrigger>EnableUserControl</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

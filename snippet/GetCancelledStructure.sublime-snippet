@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetCancelledStructure</name>
+	<content><![CDATA[GetCancelledStructure()]]></content>
+	<tabTrigger>GetCancelledStructure</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

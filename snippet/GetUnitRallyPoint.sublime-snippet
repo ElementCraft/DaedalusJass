@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetUnitRallyPoint</name>
+	<content><![CDATA[GetUnitRallyPoint( ${1:whichUnit})]]></content>
+	<tabTrigger>GetUnitRallyPoint</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

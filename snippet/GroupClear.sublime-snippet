@@ -1,0 +1,6 @@
+<snippet>
+	<name>GroupClear</name>
+	<content><![CDATA[GroupClear( ${1:whichGroup})]]></content>
+	<tabTrigger>GroupClear</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

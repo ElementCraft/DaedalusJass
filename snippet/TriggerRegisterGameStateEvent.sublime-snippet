@@ -1,0 +1,6 @@
+<snippet>
+	<name>TriggerRegisterGameStateEvent</name>
+	<content><![CDATA[TriggerRegisterGameStateEvent( ${1:whichTrigger}, ${2:whichState}, ${3:opcode}, ${4:limitval})]]></content>
+	<tabTrigger>TriggerRegisterGameStateEvent</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

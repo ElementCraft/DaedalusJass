@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetStartLocPrioSlot</name>
+	<content><![CDATA[GetStartLocPrioSlot( ${1:whichStartLoc}, ${2:prioSlotIndex})]]></content>
+	<tabTrigger>GetStartLocPrioSlot</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

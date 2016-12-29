@@ -1,0 +1,6 @@
+<snippet>
+	<name>AbilityId2String</name>
+	<content><![CDATA[AbilityId2String( ${1:abilityId})]]></content>
+	<tabTrigger>AbilityId2String</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

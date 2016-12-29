@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadRectHandle</name>
+	<content><![CDATA[LoadRectHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadRectHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

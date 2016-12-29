@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetRectCenterX</name>
+	<content><![CDATA[GetRectCenterX( ${1:whichRect})]]></content>
+	<tabTrigger>GetRectCenterX</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitId2String</name>
+	<content><![CDATA[UnitId2String( ${1:unitId})]]></content>
+	<tabTrigger>UnitId2String</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetTerrainVariance</name>
+	<content><![CDATA[GetTerrainVariance( ${1:x}, ${2:y})]]></content>
+	<tabTrigger>GetTerrainVariance</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitDropItemPoint</name>
+	<content><![CDATA[UnitDropItemPoint( ${1:whichUnit}, ${2:whichItem}, ${3:x}, ${4:y})]]></content>
+	<tabTrigger>UnitDropItemPoint</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

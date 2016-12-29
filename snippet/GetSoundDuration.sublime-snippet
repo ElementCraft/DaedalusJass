@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetSoundDuration</name>
+	<content><![CDATA[GetSoundDuration( ${1:soundHandle})]]></content>
+	<tabTrigger>GetSoundDuration</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

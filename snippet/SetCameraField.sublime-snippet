@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetCameraField</name>
+	<content><![CDATA[SetCameraField( ${1:whichField}, ${2:value}, ${3:duration})]]></content>
+	<tabTrigger>SetCameraField</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

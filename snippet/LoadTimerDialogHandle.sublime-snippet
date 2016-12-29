@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadTimerDialogHandle</name>
+	<content><![CDATA[LoadTimerDialogHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadTimerDialogHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

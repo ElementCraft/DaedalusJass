@@ -1,0 +1,6 @@
+<snippet>
+	<name>TerrainDeformStop</name>
+	<content><![CDATA[TerrainDeformStop( ${1:deformation}, ${2:duration})]]></content>
+	<tabTrigger>TerrainDeformStop</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

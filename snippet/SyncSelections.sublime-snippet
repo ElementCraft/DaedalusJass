@@ -1,0 +1,6 @@
+<snippet>
+	<name>SyncSelections</name>
+	<content><![CDATA[SyncSelections()]]></content>
+	<tabTrigger>SyncSelections</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

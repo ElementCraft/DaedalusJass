@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetUnitDefaultTurnSpeed</name>
+	<content><![CDATA[GetUnitDefaultTurnSpeed( ${1:whichUnit})]]></content>
+	<tabTrigger>GetUnitDefaultTurnSpeed</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

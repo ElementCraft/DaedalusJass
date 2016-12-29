@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetFogStateRadius</name>
+	<content><![CDATA[SetFogStateRadius( ${1:forWhichPlayer}, ${2:whichState}, ${3:centerx}, ${4:centerY}, ${5:radius}, ${6:useSharedVision})]]></content>
+	<tabTrigger>SetFogStateRadius</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

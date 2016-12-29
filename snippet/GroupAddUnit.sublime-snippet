@@ -1,0 +1,6 @@
+<snippet>
+	<name>GroupAddUnit</name>
+	<content><![CDATA[GroupAddUnit( ${1:whichGroup}, ${2:whichUnit})]]></content>
+	<tabTrigger>GroupAddUnit</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsDestructableInvulnerable</name>
+	<content><![CDATA[IsDestructableInvulnerable( ${1:d})]]></content>
+	<tabTrigger>IsDestructableInvulnerable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

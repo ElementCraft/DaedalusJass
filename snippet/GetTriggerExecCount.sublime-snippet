@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetTriggerExecCount</name>
+	<content><![CDATA[GetTriggerExecCount( ${1:whichTrigger})]]></content>
+	<tabTrigger>GetTriggerExecCount</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

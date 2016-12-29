@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetUnitPosition</name>
+	<content><![CDATA[SetUnitPosition( ${1:whichUnit}, ${2:newX}, ${3:newY})]]></content>
+	<tabTrigger>SetUnitPosition</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

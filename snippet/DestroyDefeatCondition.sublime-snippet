@@ -1,0 +1,6 @@
+<snippet>
+	<name>DestroyDefeatCondition</name>
+	<content><![CDATA[DestroyDefeatCondition( ${1:whichCondition})]]></content>
+	<tabTrigger>DestroyDefeatCondition</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetPlayerTeam</name>
+	<content><![CDATA[GetPlayerTeam( ${1:whichPlayer})]]></content>
+	<tabTrigger>GetPlayerTeam</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetPlayerAbilityAvailable</name>
+	<content><![CDATA[SetPlayerAbilityAvailable( ${1:whichPlayer}, ${2:abilid}, ${3:avail})]]></content>
+	<tabTrigger>SetPlayerAbilityAvailable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

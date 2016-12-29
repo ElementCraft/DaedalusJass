@@ -1,0 +1,6 @@
+<snippet>
+	<name>QuestSetFailed</name>
+	<content><![CDATA[QuestSetFailed( ${1:whichQuest}, ${2:failed})]]></content>
+	<tabTrigger>QuestSetFailed</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

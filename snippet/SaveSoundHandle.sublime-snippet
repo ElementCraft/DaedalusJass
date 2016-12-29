@@ -1,0 +1,6 @@
+<snippet>
+	<name>SaveSoundHandle</name>
+	<content><![CDATA[SaveSoundHandle( ${1:table}, ${2:parentKey}, ${3:childKey}, ${4:whichSound})]]></content>
+	<tabTrigger>SaveSoundHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

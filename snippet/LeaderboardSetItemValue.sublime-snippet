@@ -1,0 +1,6 @@
+<snippet>
+	<name>LeaderboardSetItemValue</name>
+	<content><![CDATA[LeaderboardSetItemValue( ${1:lb}, ${2:whichItem}, ${3:val})]]></content>
+	<tabTrigger>LeaderboardSetItemValue</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

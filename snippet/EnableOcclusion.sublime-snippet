@@ -1,0 +1,6 @@
+<snippet>
+	<name>EnableOcclusion</name>
+	<content><![CDATA[EnableOcclusion( ${1:flag})]]></content>
+	<tabTrigger>EnableOcclusion</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

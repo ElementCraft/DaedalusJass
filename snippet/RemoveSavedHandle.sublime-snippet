@@ -1,0 +1,6 @@
+<snippet>
+	<name>RemoveSavedHandle</name>
+	<content><![CDATA[RemoveSavedHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>RemoveSavedHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

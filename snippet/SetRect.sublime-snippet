@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetRect</name>
+	<content><![CDATA[SetRect( ${1:whichRect}, ${2:minx}, ${3:miny}, ${4:maxx}, ${5:maxy})]]></content>
+	<tabTrigger>SetRect</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

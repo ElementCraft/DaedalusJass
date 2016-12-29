@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitRemoveBuffsEx</name>
+	<content><![CDATA[UnitRemoveBuffsEx( ${1:whichUnit}, ${2:removePositive}, ${3:removeNegative}, ${4:magic}, ${5:physical}, ${6:timedLife}, ${7:aura}, ${8:autoDispel})]]></content>
+	<tabTrigger>UnitRemoveBuffsEx</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

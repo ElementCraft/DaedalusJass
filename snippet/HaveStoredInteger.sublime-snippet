@@ -1,0 +1,6 @@
+<snippet>
+	<name>HaveStoredInteger</name>
+	<content><![CDATA[HaveStoredInteger( ${1:cache}, ${2:missionKey}, ${3:key})]]></content>
+	<tabTrigger>HaveStoredInteger</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

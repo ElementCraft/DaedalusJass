@@ -1,0 +1,6 @@
+<snippet>
+	<name>TriggerRegisterTrackableHitEvent</name>
+	<content><![CDATA[TriggerRegisterTrackableHitEvent( ${1:whichTrigger}, ${2:t})]]></content>
+	<tabTrigger>TriggerRegisterTrackableHitEvent</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

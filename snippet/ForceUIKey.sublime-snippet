@@ -1,0 +1,6 @@
+<snippet>
+	<name>ForceUIKey</name>
+	<content><![CDATA[ForceUIKey( ${1:key})]]></content>
+	<tabTrigger>ForceUIKey</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

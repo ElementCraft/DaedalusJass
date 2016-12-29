@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetRectMinY</name>
+	<content><![CDATA[GetRectMinY( ${1:whichRect})]]></content>
+	<tabTrigger>GetRectMinY</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

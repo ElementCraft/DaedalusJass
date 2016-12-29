@@ -1,0 +1,6 @@
+<snippet>
+	<name>TimerGetRemaining</name>
+	<content><![CDATA[TimerGetRemaining( ${1:whichTimer})]]></content>
+	<tabTrigger>TimerGetRemaining</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

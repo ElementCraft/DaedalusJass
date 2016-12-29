@@ -1,0 +1,6 @@
+<snippet>
+	<name>ReviveHeroLoc</name>
+	<content><![CDATA[ReviveHeroLoc( ${1:whichHero}, ${2:loc}, ${3:doEyecandy})]]></content>
+	<tabTrigger>ReviveHeroLoc</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

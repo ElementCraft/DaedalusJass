@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetResourceAmount</name>
+	<content><![CDATA[GetResourceAmount( ${1:whichUnit})]]></content>
+	<tabTrigger>GetResourceAmount</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

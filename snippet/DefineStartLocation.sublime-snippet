@@ -1,0 +1,6 @@
+<snippet>
+	<name>DefineStartLocation</name>
+	<content><![CDATA[DefineStartLocation( ${1:whichStartLoc}, ${2:x}, ${3:y})]]></content>
+	<tabTrigger>DefineStartLocation</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

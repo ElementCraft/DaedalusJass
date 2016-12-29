@@ -1,0 +1,6 @@
+<snippet>
+	<name>DefeatConditionSetDescription</name>
+	<content><![CDATA[DefeatConditionSetDescription( ${1:whichCondition}, ${2:description})]]></content>
+	<tabTrigger>DefeatConditionSetDescription</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetRandomReal</name>
+	<content><![CDATA[GetRandomReal( ${1:lowBound}, ${2:highBound})]]></content>
+	<tabTrigger>GetRandomReal</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

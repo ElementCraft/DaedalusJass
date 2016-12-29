@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetFoodMade</name>
+	<content><![CDATA[GetFoodMade( ${1:unitId})]]></content>
+	<tabTrigger>GetFoodMade</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

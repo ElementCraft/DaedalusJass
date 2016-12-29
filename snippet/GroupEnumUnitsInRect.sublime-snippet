@@ -1,0 +1,6 @@
+<snippet>
+	<name>GroupEnumUnitsInRect</name>
+	<content><![CDATA[GroupEnumUnitsInRect( ${1:whichGroup}, ${2:r}, ${3:filter})]]></content>
+	<tabTrigger>GroupEnumUnitsInRect</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>DialogDisplay</name>
+	<content><![CDATA[DialogDisplay( ${1:whichPlayer}, ${2:whichDialog}, ${3:flag})]]></content>
+	<tabTrigger>DialogDisplay</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

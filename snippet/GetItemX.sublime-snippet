@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetItemX</name>
+	<content><![CDATA[GetItemX( ${1:i})]]></content>
+	<tabTrigger>GetItemX</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

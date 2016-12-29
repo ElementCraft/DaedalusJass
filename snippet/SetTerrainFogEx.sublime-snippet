@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetTerrainFogEx</name>
+	<content><![CDATA[SetTerrainFogEx( ${1:style}, ${2:zstart}, ${3:zend}, ${4:density}, ${5:red}, ${6:green}, ${7:blue})]]></content>
+	<tabTrigger>SetTerrainFogEx</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

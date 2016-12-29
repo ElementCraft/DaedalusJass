@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetUnitScale</name>
+	<content><![CDATA[SetUnitScale( ${1:whichUnit}, ${2:scaleX}, ${3:scaleY}, ${4:scaleZ})]]></content>
+	<tabTrigger>SetUnitScale</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

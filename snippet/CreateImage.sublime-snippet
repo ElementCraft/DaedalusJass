@@ -1,0 +1,6 @@
+<snippet>
+	<name>CreateImage</name>
+	<content><![CDATA[CreateImage( ${1:file}, ${2:sizeX}, ${3:sizeY}, ${4:sizeZ}, ${5:posX}, ${6:posY}, ${7:posZ}, ${8:originX}, ${9:originY}, ${10:originZ}, ${11:imageType})]]></content>
+	<tabTrigger>CreateImage</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

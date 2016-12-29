@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetImageAboveWater</name>
+	<content><![CDATA[SetImageAboveWater( ${1:whichImage}, ${2:flag}, ${3:useWaterAlpha})]]></content>
+	<tabTrigger>SetImageAboveWater</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

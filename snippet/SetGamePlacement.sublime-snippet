@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetGamePlacement</name>
+	<content><![CDATA[SetGamePlacement( ${1:whichPlacementType})]]></content>
+	<tabTrigger>SetGamePlacement</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetPlayerSlotState</name>
+	<content><![CDATA[GetPlayerSlotState( ${1:whichPlayer})]]></content>
+	<tabTrigger>GetPlayerSlotState</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

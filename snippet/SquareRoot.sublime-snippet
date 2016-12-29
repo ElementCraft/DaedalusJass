@@ -1,0 +1,6 @@
+<snippet>
+	<name>SquareRoot</name>
+	<content><![CDATA[SquareRoot( ${1:x})]]></content>
+	<tabTrigger>SquareRoot</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

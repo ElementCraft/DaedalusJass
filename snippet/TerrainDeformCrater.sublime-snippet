@@ -1,0 +1,6 @@
+<snippet>
+	<name>TerrainDeformCrater</name>
+	<content><![CDATA[TerrainDeformCrater( ${1:x}, ${2:y}, ${3:radius}, ${4:depth}, ${5:duration}, ${6:permanent})]]></content>
+	<tabTrigger>TerrainDeformCrater</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

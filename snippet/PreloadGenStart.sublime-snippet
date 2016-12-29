@@ -1,0 +1,6 @@
+<snippet>
+	<name>PreloadGenStart</name>
+	<content><![CDATA[PreloadGenStart()]]></content>
+	<tabTrigger>PreloadGenStart</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

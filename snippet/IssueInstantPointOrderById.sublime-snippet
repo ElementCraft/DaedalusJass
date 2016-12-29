@@ -1,0 +1,6 @@
+<snippet>
+	<name>IssueInstantPointOrderById</name>
+	<content><![CDATA[IssueInstantPointOrderById( ${1:whichUnit}, ${2:order}, ${3:x}, ${4:y}, ${5:instantTargetWidget})]]></content>
+	<tabTrigger>IssueInstantPointOrderById</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

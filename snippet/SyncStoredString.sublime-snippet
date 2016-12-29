@@ -1,0 +1,6 @@
+<snippet>
+	<name>SyncStoredString</name>
+	<content><![CDATA[SyncStoredString( ${1:cache}, ${2:missionKey}, ${3:key})]]></content>
+	<tabTrigger>SyncStoredString</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

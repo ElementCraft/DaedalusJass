@@ -1,0 +1,6 @@
+<snippet>
+	<name>GroupPointOrder</name>
+	<content><![CDATA[GroupPointOrder( ${1:whichGroup}, ${2:order}, ${3:x}, ${4:y})]]></content>
+	<tabTrigger>GroupPointOrder</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

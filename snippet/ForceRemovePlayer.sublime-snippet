@@ -1,0 +1,6 @@
+<snippet>
+	<name>ForceRemovePlayer</name>
+	<content><![CDATA[ForceRemovePlayer( ${1:whichForce}, ${2:whichPlayer})]]></content>
+	<tabTrigger>ForceRemovePlayer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

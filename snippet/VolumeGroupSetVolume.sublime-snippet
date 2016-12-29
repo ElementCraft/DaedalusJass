@@ -1,0 +1,6 @@
+<snippet>
+	<name>VolumeGroupSetVolume</name>
+	<content><![CDATA[VolumeGroupSetVolume( ${1:vgroup}, ${2:scale})]]></content>
+	<tabTrigger>VolumeGroupSetVolume</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

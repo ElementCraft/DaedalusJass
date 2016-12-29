@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetPlayerOnScoreScreen</name>
+	<content><![CDATA[SetPlayerOnScoreScreen( ${1:whichPlayer}, ${2:flag})]]></content>
+	<tabTrigger>SetPlayerOnScoreScreen</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

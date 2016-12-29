@@ -1,0 +1,6 @@
+<snippet>
+	<name>VersionSupported</name>
+	<content><![CDATA[VersionSupported( ${1:whichVersion})]]></content>
+	<tabTrigger>VersionSupported</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

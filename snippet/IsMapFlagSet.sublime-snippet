@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsMapFlagSet</name>
+	<content><![CDATA[IsMapFlagSet( ${1:whichMapFlag})]]></content>
+	<tabTrigger>IsMapFlagSet</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

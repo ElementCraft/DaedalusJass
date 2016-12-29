@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetCreatureDensity</name>
+	<content><![CDATA[SetCreatureDensity( ${1:whichdensity})]]></content>
+	<tabTrigger>SetCreatureDensity</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

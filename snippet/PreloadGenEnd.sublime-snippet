@@ -1,0 +1,6 @@
+<snippet>
+	<name>PreloadGenEnd</name>
+	<content><![CDATA[PreloadGenEnd( ${1:filename})]]></content>
+	<tabTrigger>PreloadGenEnd</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

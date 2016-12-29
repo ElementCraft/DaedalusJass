@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsPointBlighted</name>
+	<content><![CDATA[IsPointBlighted( ${1:x}, ${2:y})]]></content>
+	<tabTrigger>IsPointBlighted</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

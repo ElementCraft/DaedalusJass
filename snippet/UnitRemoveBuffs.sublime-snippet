@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitRemoveBuffs</name>
+	<content><![CDATA[UnitRemoveBuffs( ${1:whichUnit}, ${2:removePositive}, ${3:removeNegative})]]></content>
+	<tabTrigger>UnitRemoveBuffs</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

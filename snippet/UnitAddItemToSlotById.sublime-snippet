@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitAddItemToSlotById</name>
+	<content><![CDATA[UnitAddItemToSlotById( ${1:whichUnit}, ${2:itemId}, ${3:itemSlot})]]></content>
+	<tabTrigger>UnitAddItemToSlotById</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

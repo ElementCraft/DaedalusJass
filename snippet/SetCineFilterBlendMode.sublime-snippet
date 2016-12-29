@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetCineFilterBlendMode</name>
+	<content><![CDATA[SetCineFilterBlendMode( ${1:whichMode})]]></content>
+	<tabTrigger>SetCineFilterBlendMode</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

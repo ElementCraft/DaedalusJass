@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetOrderedUnit</name>
+	<content><![CDATA[GetOrderedUnit()]]></content>
+	<tabTrigger>GetOrderedUnit</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertMapVisibility</name>
+	<content><![CDATA[ConvertMapVisibility( ${1:i})]]></content>
+	<tabTrigger>ConvertMapVisibility</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetAltMinimapIcon</name>
+	<content><![CDATA[SetAltMinimapIcon( ${1:iconPath})]]></content>
+	<tabTrigger>SetAltMinimapIcon</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

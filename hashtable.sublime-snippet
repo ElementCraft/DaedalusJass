@@ -1,0 +1,6 @@
+<snippet>
+	<name>Hashtable</name>
+    <content><![CDATA[hashtable ${1:HT} = InitHashtable()]]></content>
+    <tabTrigger>hashtable</tabTrigger>
+    <scope>source.j, source.jass</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetRevivableUnit</name>
+	<content><![CDATA[GetRevivableUnit()]]></content>
+	<tabTrigger>GetRevivableUnit</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

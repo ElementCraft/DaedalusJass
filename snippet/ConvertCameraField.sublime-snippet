@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertCameraField</name>
+	<content><![CDATA[ConvertCameraField( ${1:i})]]></content>
+	<tabTrigger>ConvertCameraField</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

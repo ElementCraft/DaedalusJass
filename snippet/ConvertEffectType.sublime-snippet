@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertEffectType</name>
+	<content><![CDATA[ConvertEffectType( ${1:i})]]></content>
+	<tabTrigger>ConvertEffectType</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

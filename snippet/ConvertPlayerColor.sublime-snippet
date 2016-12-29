@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertPlayerColor</name>
+	<content><![CDATA[ConvertPlayerColor( ${1:i})]]></content>
+	<tabTrigger>ConvertPlayerColor</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

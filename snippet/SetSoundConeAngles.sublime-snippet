@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetSoundConeAngles</name>
+	<content><![CDATA[SetSoundConeAngles( ${1:soundHandle}, ${2:inside}, ${3:outside}, ${4:outsideVolume})]]></content>
+	<tabTrigger>SetSoundConeAngles</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

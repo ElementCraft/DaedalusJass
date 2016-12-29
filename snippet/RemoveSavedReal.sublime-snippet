@@ -1,0 +1,6 @@
+<snippet>
+	<name>RemoveSavedReal</name>
+	<content><![CDATA[RemoveSavedReal( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>RemoveSavedReal</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

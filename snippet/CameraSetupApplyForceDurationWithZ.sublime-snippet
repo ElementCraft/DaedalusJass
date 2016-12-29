@@ -1,0 +1,6 @@
+<snippet>
+	<name>CameraSetupApplyForceDurationWithZ</name>
+	<content><![CDATA[CameraSetupApplyForceDurationWithZ( ${1:whichSetup}, ${2:zDestOffset}, ${3:forceDuration})]]></content>
+	<tabTrigger>CameraSetupApplyForceDurationWithZ</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

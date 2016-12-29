@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetTeams</name>
+	<content><![CDATA[GetTeams()]]></content>
+	<tabTrigger>GetTeams</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

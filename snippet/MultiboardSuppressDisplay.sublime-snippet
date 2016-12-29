@@ -1,0 +1,6 @@
+<snippet>
+	<name>MultiboardSuppressDisplay</name>
+	<content><![CDATA[MultiboardSuppressDisplay( ${1:flag})]]></content>
+	<tabTrigger>MultiboardSuppressDisplay</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

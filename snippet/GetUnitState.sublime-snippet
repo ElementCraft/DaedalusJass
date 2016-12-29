@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetUnitState</name>
+	<content><![CDATA[GetUnitState( ${1:whichUnit}, ${2:whichUnitState})]]></content>
+	<tabTrigger>GetUnitState</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

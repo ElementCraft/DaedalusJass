@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsUnitOwnedByPlayer</name>
+	<content><![CDATA[IsUnitOwnedByPlayer( ${1:whichUnit}, ${2:whichPlayer})]]></content>
+	<tabTrigger>IsUnitOwnedByPlayer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

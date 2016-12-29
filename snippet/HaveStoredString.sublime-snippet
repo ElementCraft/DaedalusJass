@@ -1,0 +1,6 @@
+<snippet>
+	<name>HaveStoredString</name>
+	<content><![CDATA[HaveStoredString( ${1:cache}, ${2:missionKey}, ${3:key})]]></content>
+	<tabTrigger>HaveStoredString</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

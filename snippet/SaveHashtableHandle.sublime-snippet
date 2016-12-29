@@ -1,0 +1,6 @@
+<snippet>
+	<name>SaveHashtableHandle</name>
+	<content><![CDATA[SaveHashtableHandle( ${1:table}, ${2:parentKey}, ${3:childKey}, ${4:whichHashtable})]]></content>
+	<tabTrigger>SaveHashtableHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetImageConstantHeight</name>
+	<content><![CDATA[SetImageConstantHeight( ${1:whichImage}, ${2:flag}, ${3:height})]]></content>
+	<tabTrigger>SetImageConstantHeight</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

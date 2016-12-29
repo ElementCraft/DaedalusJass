@@ -1,0 +1,6 @@
+<snippet>
+	<name>MultiboardGetItem</name>
+	<content><![CDATA[MultiboardGetItem( ${1:lb}, ${2:row}, ${3:column})]]></content>
+	<tabTrigger>MultiboardGetItem</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

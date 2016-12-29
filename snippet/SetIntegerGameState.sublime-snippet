@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetIntegerGameState</name>
+	<content><![CDATA[SetIntegerGameState( ${1:whichIntegerGameState}, ${2:value})]]></content>
+	<tabTrigger>SetIntegerGameState</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

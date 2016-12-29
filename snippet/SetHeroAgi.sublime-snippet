@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetHeroAgi</name>
+	<content><![CDATA[SetHeroAgi( ${1:whichHero}, ${2:newAgi}, ${3:permanent})]]></content>
+	<tabTrigger>SetHeroAgi</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

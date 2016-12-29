@@ -1,0 +1,6 @@
+<snippet>
+	<name>RemoveRect</name>
+	<content><![CDATA[RemoveRect( ${1:whichRect})]]></content>
+	<tabTrigger>RemoveRect</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

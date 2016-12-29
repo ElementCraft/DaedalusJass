@@ -1,0 +1,6 @@
+<snippet>
+	<name>SaveImageHandle</name>
+	<content><![CDATA[SaveImageHandle( ${1:table}, ${2:parentKey}, ${3:childKey}, ${4:whichImage})]]></content>
+	<tabTrigger>SaveImageHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

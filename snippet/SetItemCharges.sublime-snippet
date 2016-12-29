@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetItemCharges</name>
+	<content><![CDATA[SetItemCharges( ${1:whichItem}, ${2:charges})]]></content>
+	<tabTrigger>SetItemCharges</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

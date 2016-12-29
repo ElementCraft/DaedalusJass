@@ -1,0 +1,6 @@
+<snippet>
+	<name>LeaderboardClear</name>
+	<content><![CDATA[LeaderboardClear( ${1:lb})]]></content>
+	<tabTrigger>LeaderboardClear</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

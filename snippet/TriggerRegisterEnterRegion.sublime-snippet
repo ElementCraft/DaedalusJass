@@ -1,0 +1,6 @@
+<snippet>
+	<name>TriggerRegisterEnterRegion</name>
+	<content><![CDATA[TriggerRegisterEnterRegion( ${1:whichTrigger}, ${2:whichRegion}, ${3:filter})]]></content>
+	<tabTrigger>TriggerRegisterEnterRegion</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

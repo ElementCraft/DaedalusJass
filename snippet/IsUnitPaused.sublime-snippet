@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsUnitPaused</name>
+	<content><![CDATA[IsUnitPaused( ${1:whichHero})]]></content>
+	<tabTrigger>IsUnitPaused</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>CreateFogModifierRadius</name>
+	<content><![CDATA[CreateFogModifierRadius( ${1:forWhichPlayer}, ${2:whichState}, ${3:centerx}, ${4:centerY}, ${5:radius}, ${6:useSharedVision}, ${7:afterUnits})]]></content>
+	<tabTrigger>CreateFogModifierRadius</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

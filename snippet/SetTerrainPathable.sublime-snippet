@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetTerrainPathable</name>
+	<content><![CDATA[SetTerrainPathable( ${1:x}, ${2:y}, ${3:t}, ${4:flag})]]></content>
+	<tabTrigger>SetTerrainPathable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

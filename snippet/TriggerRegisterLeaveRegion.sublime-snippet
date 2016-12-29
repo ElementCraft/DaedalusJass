@@ -1,0 +1,6 @@
+<snippet>
+	<name>TriggerRegisterLeaveRegion</name>
+	<content><![CDATA[TriggerRegisterLeaveRegion( ${1:whichTrigger}, ${2:whichRegion}, ${3:filter})]]></content>
+	<tabTrigger>TriggerRegisterLeaveRegion</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>DestroyBoolExpr</name>
+	<content><![CDATA[DestroyBoolExpr( ${1:e})]]></content>
+	<tabTrigger>DestroyBoolExpr</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

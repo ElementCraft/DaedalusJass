@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetEventUnitState</name>
+	<content><![CDATA[GetEventUnitState()]]></content>
+	<tabTrigger>GetEventUnitState</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

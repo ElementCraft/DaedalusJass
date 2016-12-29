@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetUnitDefaultPropWindow</name>
+	<content><![CDATA[GetUnitDefaultPropWindow( ${1:whichUnit})]]></content>
+	<tabTrigger>GetUnitDefaultPropWindow</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

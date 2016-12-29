@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetPlayerTechCount</name>
+	<content><![CDATA[GetPlayerTechCount( ${1:whichPlayer}, ${2:techid}, ${3:specificonly})]]></content>
+	<tabTrigger>GetPlayerTechCount</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

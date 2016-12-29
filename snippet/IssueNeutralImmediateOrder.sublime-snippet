@@ -1,0 +1,6 @@
+<snippet>
+	<name>IssueNeutralImmediateOrder</name>
+	<content><![CDATA[IssueNeutralImmediateOrder( ${1:forWhichPlayer}, ${2:neutralStructure}, ${3:unitToBuild})]]></content>
+	<tabTrigger>IssueNeutralImmediateOrder</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

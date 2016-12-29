@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetPlayerAlliance</name>
+	<content><![CDATA[GetPlayerAlliance( ${1:sourcePlayer}, ${2:otherPlayer}, ${3:whichAllianceSetting})]]></content>
+	<tabTrigger>GetPlayerAlliance</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

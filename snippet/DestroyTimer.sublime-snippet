@@ -1,0 +1,6 @@
+<snippet>
+	<name>DestroyTimer</name>
+	<content><![CDATA[DestroyTimer( ${1:whichTimer})]]></content>
+	<tabTrigger>DestroyTimer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

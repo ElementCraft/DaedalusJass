@@ -1,0 +1,6 @@
+<snippet>
+	<name>FlushStoredInteger</name>
+	<content><![CDATA[FlushStoredInteger( ${1:cache}, ${2:missionKey}, ${3:key})]]></content>
+	<tabTrigger>FlushStoredInteger</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

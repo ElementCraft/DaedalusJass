@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetDestructableOccluderHeight</name>
+	<content><![CDATA[GetDestructableOccluderHeight( ${1:d})]]></content>
+	<tabTrigger>GetDestructableOccluderHeight</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

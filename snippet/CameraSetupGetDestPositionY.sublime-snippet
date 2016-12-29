@@ -1,0 +1,6 @@
+<snippet>
+	<name>CameraSetupGetDestPositionY</name>
+	<content><![CDATA[CameraSetupGetDestPositionY( ${1:whichSetup})]]></content>
+	<tabTrigger>CameraSetupGetDestPositionY</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

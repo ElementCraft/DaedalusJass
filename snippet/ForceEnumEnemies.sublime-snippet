@@ -1,0 +1,6 @@
+<snippet>
+	<name>ForceEnumEnemies</name>
+	<content><![CDATA[ForceEnumEnemies( ${1:whichForce}, ${2:whichPlayer}, ${3:filter})]]></content>
+	<tabTrigger>ForceEnumEnemies</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

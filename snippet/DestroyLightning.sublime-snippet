@@ -1,0 +1,6 @@
+<snippet>
+	<name>DestroyLightning</name>
+	<content><![CDATA[DestroyLightning( ${1:whichBolt})]]></content>
+	<tabTrigger>DestroyLightning</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

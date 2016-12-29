@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitDamageTarget</name>
+	<content><![CDATA[UnitDamageTarget( ${1:whichUnit}, ${2:target}, ${3:amount}, ${4:attack}, ${5:ranged}, ${6:attackType}, ${7:damageType}, ${8:weaponType})]]></content>
+	<tabTrigger>UnitDamageTarget</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

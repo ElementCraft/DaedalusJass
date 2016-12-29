@@ -1,0 +1,6 @@
+<snippet>
+	<name>PanCameraTo</name>
+	<content><![CDATA[PanCameraTo( ${1:x}, ${2:y})]]></content>
+	<tabTrigger>PanCameraTo</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

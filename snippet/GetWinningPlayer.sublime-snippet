@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetWinningPlayer</name>
+	<content><![CDATA[GetWinningPlayer()]]></content>
+	<tabTrigger>GetWinningPlayer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

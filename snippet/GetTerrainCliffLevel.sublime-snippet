@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetTerrainCliffLevel</name>
+	<content><![CDATA[GetTerrainCliffLevel( ${1:x}, ${2:y})]]></content>
+	<tabTrigger>GetTerrainCliffLevel</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

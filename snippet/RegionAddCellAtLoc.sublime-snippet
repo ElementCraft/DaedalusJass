@@ -1,0 +1,6 @@
+<snippet>
+	<name>RegionAddCellAtLoc</name>
+	<content><![CDATA[RegionAddCellAtLoc( ${1:whichRegion}, ${2:whichLocation})]]></content>
+	<tabTrigger>RegionAddCellAtLoc</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

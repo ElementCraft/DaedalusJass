@@ -1,0 +1,6 @@
+<snippet>
+	<name>CreateTrackable</name>
+	<content><![CDATA[CreateTrackable( ${1:trackableModelPath}, ${2:x}, ${3:y}, ${4:facing})]]></content>
+	<tabTrigger>CreateTrackable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

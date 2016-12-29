@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetOrderTargetDestructable</name>
+	<content><![CDATA[GetOrderTargetDestructable()]]></content>
+	<tabTrigger>GetOrderTargetDestructable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

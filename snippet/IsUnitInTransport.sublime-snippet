@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsUnitInTransport</name>
+	<content><![CDATA[IsUnitInTransport( ${1:whichUnit}, ${2:whichTransport})]]></content>
+	<tabTrigger>IsUnitInTransport</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

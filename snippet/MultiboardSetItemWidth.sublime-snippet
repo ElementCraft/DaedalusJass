@@ -1,0 +1,6 @@
+<snippet>
+	<name>MultiboardSetItemWidth</name>
+	<content><![CDATA[MultiboardSetItemWidth( ${1:mbi}, ${2:width})]]></content>
+	<tabTrigger>MultiboardSetItemWidth</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

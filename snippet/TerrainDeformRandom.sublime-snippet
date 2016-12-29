@@ -1,0 +1,6 @@
+<snippet>
+	<name>TerrainDeformRandom</name>
+	<content><![CDATA[TerrainDeformRandom( ${1:x}, ${2:y}, ${3:radius}, ${4:minDelta}, ${5:maxDelta}, ${6:duration}, ${7:updateInterval})]]></content>
+	<tabTrigger>TerrainDeformRandom</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

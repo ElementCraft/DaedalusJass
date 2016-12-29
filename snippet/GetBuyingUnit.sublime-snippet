@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetBuyingUnit</name>
+	<content><![CDATA[GetBuyingUnit()]]></content>
+	<tabTrigger>GetBuyingUnit</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

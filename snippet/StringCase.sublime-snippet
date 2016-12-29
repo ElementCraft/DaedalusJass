@@ -1,0 +1,6 @@
+<snippet>
+	<name>StringCase</name>
+	<content><![CDATA[StringCase( ${1:source}, ${2:upper})]]></content>
+	<tabTrigger>StringCase</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

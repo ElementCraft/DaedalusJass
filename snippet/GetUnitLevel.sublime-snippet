@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetUnitLevel</name>
+	<content><![CDATA[GetUnitLevel( ${1:whichUnit})]]></content>
+	<tabTrigger>GetUnitLevel</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>SaveEffectHandle</name>
+	<content><![CDATA[SaveEffectHandle( ${1:table}, ${2:parentKey}, ${3:childKey}, ${4:whichEffect})]]></content>
+	<tabTrigger>SaveEffectHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

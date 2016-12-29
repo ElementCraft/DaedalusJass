@@ -1,0 +1,6 @@
+<snippet>
+	<name>ForceQuestDialogUpdate</name>
+	<content><![CDATA[ForceQuestDialogUpdate()]]></content>
+	<tabTrigger>ForceQuestDialogUpdate</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetItemDropID</name>
+	<content><![CDATA[SetItemDropID( ${1:whichItem}, ${2:unitId})]]></content>
+	<tabTrigger>SetItemDropID</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

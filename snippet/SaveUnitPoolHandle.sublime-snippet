@@ -1,0 +1,6 @@
+<snippet>
+	<name>SaveUnitPoolHandle</name>
+	<content><![CDATA[SaveUnitPoolHandle( ${1:table}, ${2:parentKey}, ${3:childKey}, ${4:whichUnitpool})]]></content>
+	<tabTrigger>SaveUnitPoolHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetSoldItem</name>
+	<content><![CDATA[GetSoldItem()]]></content>
+	<tabTrigger>GetSoldItem</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>KillDestructable</name>
+	<content><![CDATA[KillDestructable( ${1:d})]]></content>
+	<tabTrigger>KillDestructable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

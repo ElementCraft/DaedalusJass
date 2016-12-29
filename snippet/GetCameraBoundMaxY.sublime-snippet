@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetCameraBoundMaxY</name>
+	<content><![CDATA[GetCameraBoundMaxY()]]></content>
+	<tabTrigger>GetCameraBoundMaxY</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

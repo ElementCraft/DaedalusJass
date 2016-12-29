@@ -1,0 +1,6 @@
+<snippet>
+	<name>CreateFogModifierRect</name>
+	<content><![CDATA[CreateFogModifierRect( ${1:forWhichPlayer}, ${2:whichState}, ${3:where}, ${4:useSharedVision}, ${5:afterUnits})]]></content>
+	<tabTrigger>CreateFogModifierRect</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

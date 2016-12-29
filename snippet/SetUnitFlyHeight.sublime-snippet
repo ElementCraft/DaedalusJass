@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetUnitFlyHeight</name>
+	<content><![CDATA[SetUnitFlyHeight( ${1:whichUnit}, ${2:newHeight}, ${3:rate})]]></content>
+	<tabTrigger>SetUnitFlyHeight</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

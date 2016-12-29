@@ -1,0 +1,6 @@
+<snippet>
+	<name>SaveAbilityHandle</name>
+	<content><![CDATA[SaveAbilityHandle( ${1:table}, ${2:parentKey}, ${3:childKey}, ${4:whichAbility})]]></content>
+	<tabTrigger>SaveAbilityHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

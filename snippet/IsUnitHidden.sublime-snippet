@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsUnitHidden</name>
+	<content><![CDATA[IsUnitHidden( ${1:whichUnit})]]></content>
+	<tabTrigger>IsUnitHidden</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

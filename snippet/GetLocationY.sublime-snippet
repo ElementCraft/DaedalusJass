@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetLocationY</name>
+	<content><![CDATA[GetLocationY( ${1:whichLocation})]]></content>
+	<tabTrigger>GetLocationY</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

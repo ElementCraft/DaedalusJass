@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetWidgetY</name>
+	<content><![CDATA[GetWidgetY( ${1:whichWidget})]]></content>
+	<tabTrigger>GetWidgetY</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

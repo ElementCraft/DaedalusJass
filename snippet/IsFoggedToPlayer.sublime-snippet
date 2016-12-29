@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsFoggedToPlayer</name>
+	<content><![CDATA[IsFoggedToPlayer( ${1:x}, ${2:y}, ${3:whichPlayer})]]></content>
+	<tabTrigger>IsFoggedToPlayer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

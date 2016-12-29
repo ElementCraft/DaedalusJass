@@ -1,0 +1,6 @@
+<snippet>
+	<name>GroupEnumUnitsInRectCounted</name>
+	<content><![CDATA[GroupEnumUnitsInRectCounted( ${1:whichGroup}, ${2:r}, ${3:filter}, ${4:countLimit})]]></content>
+	<tabTrigger>GroupEnumUnitsInRectCounted</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

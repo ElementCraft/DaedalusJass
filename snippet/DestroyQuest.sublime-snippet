@@ -1,0 +1,6 @@
+<snippet>
+	<name>DestroyQuest</name>
+	<content><![CDATA[DestroyQuest( ${1:whichQuest})]]></content>
+	<tabTrigger>DestroyQuest</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

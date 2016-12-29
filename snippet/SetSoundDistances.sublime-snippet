@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetSoundDistances</name>
+	<content><![CDATA[SetSoundDistances( ${1:soundHandle}, ${2:minDist}, ${3:maxDist})]]></content>
+	<tabTrigger>SetSoundDistances</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

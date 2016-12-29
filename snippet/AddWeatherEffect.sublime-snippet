@@ -1,0 +1,6 @@
+<snippet>
+	<name>AddWeatherEffect</name>
+	<content><![CDATA[AddWeatherEffect( ${1:where}, ${2:effectID})]]></content>
+	<tabTrigger>AddWeatherEffect</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

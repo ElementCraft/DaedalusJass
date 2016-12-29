@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitItemInSlot</name>
+	<content><![CDATA[UnitItemInSlot( ${1:whichUnit}, ${2:itemSlot})]]></content>
+	<tabTrigger>UnitItemInSlot</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

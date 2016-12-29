@@ -1,0 +1,6 @@
+<snippet>
+	<name>CreateMIDISound</name>
+	<content><![CDATA[CreateMIDISound( ${1:soundLabel}, ${2:fadeInRate}, ${3:fadeOutRate})]]></content>
+	<tabTrigger>CreateMIDISound</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

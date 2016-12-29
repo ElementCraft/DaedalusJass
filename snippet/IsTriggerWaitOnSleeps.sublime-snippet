@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsTriggerWaitOnSleeps</name>
+	<content><![CDATA[IsTriggerWaitOnSleeps( ${1:whichTrigger})]]></content>
+	<tabTrigger>IsTriggerWaitOnSleeps</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetStoredBoolean</name>
+	<content><![CDATA[GetStoredBoolean( ${1:cache}, ${2:missionKey}, ${3:key})]]></content>
+	<tabTrigger>GetStoredBoolean</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

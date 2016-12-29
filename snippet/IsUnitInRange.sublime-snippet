@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsUnitInRange</name>
+	<content><![CDATA[IsUnitInRange( ${1:whichUnit}, ${2:otherUnit}, ${3:distance})]]></content>
+	<tabTrigger>IsUnitInRange</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

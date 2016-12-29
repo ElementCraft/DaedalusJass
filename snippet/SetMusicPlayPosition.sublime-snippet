@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetMusicPlayPosition</name>
+	<content><![CDATA[SetMusicPlayPosition( ${1:millisecs})]]></content>
+	<tabTrigger>SetMusicPlayPosition</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

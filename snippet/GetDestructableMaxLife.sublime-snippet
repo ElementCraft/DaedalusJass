@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetDestructableMaxLife</name>
+	<content><![CDATA[GetDestructableMaxLife( ${1:d})]]></content>
+	<tabTrigger>GetDestructableMaxLife</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

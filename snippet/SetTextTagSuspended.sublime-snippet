@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetTextTagSuspended</name>
+	<content><![CDATA[SetTextTagSuspended( ${1:t}, ${2:flag})]]></content>
+	<tabTrigger>SetTextTagSuspended</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

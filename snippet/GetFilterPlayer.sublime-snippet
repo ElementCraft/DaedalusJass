@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetFilterPlayer</name>
+	<content><![CDATA[GetFilterPlayer()]]></content>
+	<tabTrigger>GetFilterPlayer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

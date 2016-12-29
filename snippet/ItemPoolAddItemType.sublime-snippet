@@ -1,0 +1,6 @@
+<snippet>
+	<name>ItemPoolAddItemType</name>
+	<content><![CDATA[ItemPoolAddItemType( ${1:whichItemPool}, ${2:itemId}, ${3:weight})]]></content>
+	<tabTrigger>ItemPoolAddItemType</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

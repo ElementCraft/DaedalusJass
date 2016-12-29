@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertMapControl</name>
+	<content><![CDATA[ConvertMapControl( ${1:i})]]></content>
+	<tabTrigger>ConvertMapControl</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

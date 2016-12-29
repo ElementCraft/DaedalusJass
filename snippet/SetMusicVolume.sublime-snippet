@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetMusicVolume</name>
+	<content><![CDATA[SetMusicVolume( ${1:volume})]]></content>
+	<tabTrigger>SetMusicVolume</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

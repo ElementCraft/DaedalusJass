@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetIntroShotModel</name>
+	<content><![CDATA[SetIntroShotModel( ${1:introModelPath})]]></content>
+	<tabTrigger>SetIntroShotModel</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

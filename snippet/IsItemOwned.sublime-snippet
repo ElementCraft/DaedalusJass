@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsItemOwned</name>
+	<content><![CDATA[IsItemOwned( ${1:whichItem})]]></content>
+	<tabTrigger>IsItemOwned</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

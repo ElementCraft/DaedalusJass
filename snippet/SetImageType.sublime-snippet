@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetImageType</name>
+	<content><![CDATA[SetImageType( ${1:whichImage}, ${2:imageType})]]></content>
+	<tabTrigger>SetImageType</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

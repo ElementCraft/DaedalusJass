@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetUnitExploded</name>
+	<content><![CDATA[SetUnitExploded( ${1:whichUnit}, ${2:exploded})]]></content>
+	<tabTrigger>SetUnitExploded</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

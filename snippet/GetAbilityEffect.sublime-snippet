@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetAbilityEffect</name>
+	<content><![CDATA[GetAbilityEffect( ${1:abilityString}, ${2:t}, ${3:index})]]></content>
+	<tabTrigger>GetAbilityEffect</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

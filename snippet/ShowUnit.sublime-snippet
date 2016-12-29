@@ -1,0 +1,6 @@
+<snippet>
+	<name>ShowUnit</name>
+	<content><![CDATA[ShowUnit( ${1:whichUnit}, ${2:show})]]></content>
+	<tabTrigger>ShowUnit</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

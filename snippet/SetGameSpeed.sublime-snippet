@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetGameSpeed</name>
+	<content><![CDATA[SetGameSpeed( ${1:whichspeed})]]></content>
+	<tabTrigger>SetGameSpeed</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetTournamentFinishNowPlayer</name>
+	<content><![CDATA[GetTournamentFinishNowPlayer()]]></content>
+	<tabTrigger>GetTournamentFinishNowPlayer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

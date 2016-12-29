@@ -1,0 +1,6 @@
+<snippet>
+	<name>CameraSetupApply</name>
+	<content><![CDATA[CameraSetupApply( ${1:whichSetup}, ${2:doPan}, ${3:panTimed})]]></content>
+	<tabTrigger>CameraSetupApply</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

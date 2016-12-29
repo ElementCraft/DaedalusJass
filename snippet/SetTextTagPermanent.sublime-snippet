@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetTextTagPermanent</name>
+	<content><![CDATA[SetTextTagPermanent( ${1:t}, ${2:flag})]]></content>
+	<tabTrigger>SetTextTagPermanent</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

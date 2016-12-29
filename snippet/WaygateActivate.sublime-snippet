@@ -1,0 +1,6 @@
+<snippet>
+	<name>WaygateActivate</name>
+	<content><![CDATA[WaygateActivate( ${1:waygate}, ${2:activate})]]></content>
+	<tabTrigger>WaygateActivate</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

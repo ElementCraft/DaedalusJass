@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertFogState</name>
+	<content><![CDATA[ConvertFogState( ${1:i})]]></content>
+	<tabTrigger>ConvertFogState</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

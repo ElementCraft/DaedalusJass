@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetImagePosition</name>
+	<content><![CDATA[SetImagePosition( ${1:whichImage}, ${2:x}, ${3:y}, ${4:z})]]></content>
+	<tabTrigger>SetImagePosition</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitInventorySize</name>
+	<content><![CDATA[UnitInventorySize( ${1:whichUnit})]]></content>
+	<tabTrigger>UnitInventorySize</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

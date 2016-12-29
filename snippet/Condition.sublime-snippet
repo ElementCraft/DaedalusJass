@@ -1,0 +1,6 @@
+<snippet>
+	<name>Condition</name>
+	<content><![CDATA[Condition( ${1:func})]]></content>
+	<tabTrigger>Condition</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

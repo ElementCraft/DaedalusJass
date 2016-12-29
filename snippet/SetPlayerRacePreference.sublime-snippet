@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetPlayerRacePreference</name>
+	<content><![CDATA[SetPlayerRacePreference( ${1:whichPlayer}, ${2:whichRacePreference})]]></content>
+	<tabTrigger>SetPlayerRacePreference</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsItemInvulnerable</name>
+	<content><![CDATA[IsItemInvulnerable( ${1:whichItem})]]></content>
+	<tabTrigger>IsItemInvulnerable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

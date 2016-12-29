@@ -1,0 +1,6 @@
+<snippet>
+	<name>TriggerRegisterDeathEvent</name>
+	<content><![CDATA[TriggerRegisterDeathEvent( ${1:whichTrigger}, ${2:whichWidget})]]></content>
+	<tabTrigger>TriggerRegisterDeathEvent</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

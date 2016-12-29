@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetUnitFoodUsed</name>
+	<content><![CDATA[GetUnitFoodUsed( ${1:whichUnit})]]></content>
+	<tabTrigger>GetUnitFoodUsed</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

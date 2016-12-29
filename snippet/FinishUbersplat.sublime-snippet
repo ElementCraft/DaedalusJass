@@ -1,0 +1,6 @@
+<snippet>
+	<name>FinishUbersplat</name>
+	<content><![CDATA[FinishUbersplat( ${1:whichSplat})]]></content>
+	<tabTrigger>FinishUbersplat</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

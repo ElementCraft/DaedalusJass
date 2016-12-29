@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetOwningPlayer</name>
+	<content><![CDATA[GetOwningPlayer( ${1:whichUnit})]]></content>
+	<tabTrigger>GetOwningPlayer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

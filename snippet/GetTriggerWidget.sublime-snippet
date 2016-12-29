@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetTriggerWidget</name>
+	<content><![CDATA[GetTriggerWidget()]]></content>
+	<tabTrigger>GetTriggerWidget</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetWidgetLife</name>
+	<content><![CDATA[SetWidgetLife( ${1:whichWidget}, ${2:newLife})]]></content>
+	<tabTrigger>SetWidgetLife</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

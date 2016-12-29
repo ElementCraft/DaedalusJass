@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetWaterBaseColor</name>
+	<content><![CDATA[SetWaterBaseColor( ${1:red}, ${2:green}, ${3:blue}, ${4:alpha})]]></content>
+	<tabTrigger>SetWaterBaseColor</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

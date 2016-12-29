@@ -1,0 +1,6 @@
+<snippet>
+	<name>EnableMinimapFilterButtons</name>
+	<content><![CDATA[EnableMinimapFilterButtons( ${1:enableAlly}, ${2:enableCreep})]]></content>
+	<tabTrigger>EnableMinimapFilterButtons</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

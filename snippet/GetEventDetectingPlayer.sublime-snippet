@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetEventDetectingPlayer</name>
+	<content><![CDATA[GetEventDetectingPlayer()]]></content>
+	<tabTrigger>GetEventDetectingPlayer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

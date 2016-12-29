@@ -1,0 +1,6 @@
+<snippet>
+	<name>ShowInterface</name>
+	<content><![CDATA[ShowInterface( ${1:flag}, ${2:fadeDuration})]]></content>
+	<tabTrigger>ShowInterface</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

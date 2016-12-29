@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetItemVisible</name>
+	<content><![CDATA[SetItemVisible( ${1:whichItem}, ${2:show})]]></content>
+	<tabTrigger>SetItemVisible</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

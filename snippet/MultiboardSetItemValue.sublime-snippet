@@ -1,0 +1,6 @@
+<snippet>
+	<name>MultiboardSetItemValue</name>
+	<content><![CDATA[MultiboardSetItemValue( ${1:mbi}, ${2:val})]]></content>
+	<tabTrigger>MultiboardSetItemValue</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

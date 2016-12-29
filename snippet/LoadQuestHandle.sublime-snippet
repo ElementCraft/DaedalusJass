@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadQuestHandle</name>
+	<content><![CDATA[LoadQuestHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadQuestHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

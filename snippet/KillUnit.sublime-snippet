@@ -1,0 +1,6 @@
+<snippet>
+	<name>KillUnit</name>
+	<content><![CDATA[KillUnit( ${1:whichUnit})]]></content>
+	<tabTrigger>KillUnit</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

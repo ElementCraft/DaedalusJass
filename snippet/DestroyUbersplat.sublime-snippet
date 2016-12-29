@@ -1,0 +1,6 @@
+<snippet>
+	<name>DestroyUbersplat</name>
+	<content><![CDATA[DestroyUbersplat( ${1:whichSplat})]]></content>
+	<tabTrigger>DestroyUbersplat</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

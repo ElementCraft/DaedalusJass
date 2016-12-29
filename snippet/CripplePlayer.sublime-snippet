@@ -1,0 +1,6 @@
+<snippet>
+	<name>CripplePlayer</name>
+	<content><![CDATA[CripplePlayer( ${1:whichPlayer}, ${2:toWhichPlayers}, ${3:flag})]]></content>
+	<tabTrigger>CripplePlayer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>DisableRestartMission</name>
+	<content><![CDATA[DisableRestartMission( ${1:flag})]]></content>
+	<tabTrigger>DisableRestartMission</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

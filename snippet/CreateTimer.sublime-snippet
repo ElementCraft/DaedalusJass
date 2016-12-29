@@ -1,0 +1,6 @@
+<snippet>
+	<name>CreateTimer</name>
+	<content><![CDATA[CreateTimer()]]></content>
+	<tabTrigger>CreateTimer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

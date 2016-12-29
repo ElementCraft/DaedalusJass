@@ -1,0 +1,6 @@
+<snippet>
+	<name>StartSound</name>
+	<content><![CDATA[StartSound( ${1:soundHandle})]]></content>
+	<tabTrigger>StartSound</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

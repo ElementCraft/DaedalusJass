@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetAbilitySound</name>
+	<content><![CDATA[GetAbilitySound( ${1:abilityString}, ${2:t})]]></content>
+	<tabTrigger>GetAbilitySound</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

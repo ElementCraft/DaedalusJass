@@ -1,0 +1,6 @@
+<snippet>
+	<name>MoveLightningEx</name>
+	<content><![CDATA[MoveLightningEx( ${1:whichBolt}, ${2:checkVisibility}, ${3:x1}, ${4:y1}, ${5:z1}, ${6:x2}, ${7:y2}, ${8:z2})]]></content>
+	<tabTrigger>MoveLightningEx</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

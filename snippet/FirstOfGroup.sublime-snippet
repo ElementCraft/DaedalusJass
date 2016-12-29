@@ -1,0 +1,6 @@
+<snippet>
+	<name>FirstOfGroup</name>
+	<content><![CDATA[FirstOfGroup( ${1:whichGroup})]]></content>
+	<tabTrigger>FirstOfGroup</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

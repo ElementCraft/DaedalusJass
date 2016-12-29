@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertTexMapFlags</name>
+	<content><![CDATA[ConvertTexMapFlags( ${1:i})]]></content>
+	<tabTrigger>ConvertTexMapFlags</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

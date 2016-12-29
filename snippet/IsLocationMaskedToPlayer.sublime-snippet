@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsLocationMaskedToPlayer</name>
+	<content><![CDATA[IsLocationMaskedToPlayer( ${1:whichLocation}, ${2:whichPlayer})]]></content>
+	<tabTrigger>IsLocationMaskedToPlayer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

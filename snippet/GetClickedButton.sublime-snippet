@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetClickedButton</name>
+	<content><![CDATA[GetClickedButton()]]></content>
+	<tabTrigger>GetClickedButton</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

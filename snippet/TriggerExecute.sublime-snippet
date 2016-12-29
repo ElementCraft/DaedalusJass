@@ -1,0 +1,6 @@
+<snippet>
+	<name>TriggerExecute</name>
+	<content><![CDATA[TriggerExecute( ${1:whichTrigger})]]></content>
+	<tabTrigger>TriggerExecute</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

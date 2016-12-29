@@ -1,0 +1,6 @@
+<snippet>
+	<name>LeaderboardGetPlayerIndex</name>
+	<content><![CDATA[LeaderboardGetPlayerIndex( ${1:lb}, ${2:p})]]></content>
+	<tabTrigger>LeaderboardGetPlayerIndex</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

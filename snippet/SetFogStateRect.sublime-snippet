@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetFogStateRect</name>
+	<content><![CDATA[SetFogStateRect( ${1:forWhichPlayer}, ${2:whichState}, ${3:where}, ${4:useSharedVision})]]></content>
+	<tabTrigger>SetFogStateRect</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

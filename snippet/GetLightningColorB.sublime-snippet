@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetLightningColorB</name>
+	<content><![CDATA[GetLightningColorB( ${1:whichBolt})]]></content>
+	<tabTrigger>GetLightningColorB</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

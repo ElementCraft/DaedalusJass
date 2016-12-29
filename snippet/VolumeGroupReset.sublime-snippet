@@ -1,0 +1,6 @@
+<snippet>
+	<name>VolumeGroupReset</name>
+	<content><![CDATA[VolumeGroupReset()]]></content>
+	<tabTrigger>VolumeGroupReset</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

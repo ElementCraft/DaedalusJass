@@ -1,0 +1,6 @@
+<snippet>
+	<name>ChooseRandomCreep</name>
+	<content><![CDATA[ChooseRandomCreep( ${1:level})]]></content>
+	<tabTrigger>ChooseRandomCreep</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

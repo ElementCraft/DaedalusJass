@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitMakeAbilityPermanent</name>
+	<content><![CDATA[UnitMakeAbilityPermanent( ${1:whichUnit}, ${2:permanent}, ${3:abilityId})]]></content>
+	<tabTrigger>UnitMakeAbilityPermanent</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

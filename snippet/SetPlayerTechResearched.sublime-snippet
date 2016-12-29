@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetPlayerTechResearched</name>
+	<content><![CDATA[SetPlayerTechResearched( ${1:whichPlayer}, ${2:techid}, ${3:setToLevel})]]></content>
+	<tabTrigger>SetPlayerTechResearched</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetUnitFacingTimed</name>
+	<content><![CDATA[SetUnitFacingTimed( ${1:whichUnit}, ${2:facingAngle}, ${3:duration})]]></content>
+	<tabTrigger>SetUnitFacingTimed</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

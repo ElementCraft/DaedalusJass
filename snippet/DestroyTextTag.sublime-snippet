@@ -1,0 +1,6 @@
+<snippet>
+	<name>DestroyTextTag</name>
+	<content><![CDATA[DestroyTextTag( ${1:t})]]></content>
+	<tabTrigger>DestroyTextTag</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

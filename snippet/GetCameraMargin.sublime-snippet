@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetCameraMargin</name>
+	<content><![CDATA[GetCameraMargin( ${1:whichMargin})]]></content>
+	<tabTrigger>GetCameraMargin</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

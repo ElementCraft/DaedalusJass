@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetUnitAbilityLevel</name>
+	<content><![CDATA[SetUnitAbilityLevel( ${1:whichUnit}, ${2:abilcode}, ${3:level})]]></content>
+	<tabTrigger>SetUnitAbilityLevel</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

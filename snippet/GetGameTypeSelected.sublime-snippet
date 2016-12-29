@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetGameTypeSelected</name>
+	<content><![CDATA[GetGameTypeSelected()]]></content>
+	<tabTrigger>GetGameTypeSelected</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

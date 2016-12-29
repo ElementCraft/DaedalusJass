@@ -1,0 +1,6 @@
+<snippet>
+	<name>DestroyFilter</name>
+	<content><![CDATA[DestroyFilter( ${1:f})]]></content>
+	<tabTrigger>DestroyFilter</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

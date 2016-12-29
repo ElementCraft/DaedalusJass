@@ -1,0 +1,6 @@
+<snippet>
+	<name>R2I</name>
+	<content><![CDATA[R2I( ${1:r})]]></content>
+	<tabTrigger>R2I</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

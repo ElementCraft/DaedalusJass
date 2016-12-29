@@ -1,0 +1,6 @@
+<snippet>
+	<name>StopSound</name>
+	<content><![CDATA[StopSound( ${1:soundHandle}, ${2:killWhenDone}, ${3:fadeOut})]]></content>
+	<tabTrigger>StopSound</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

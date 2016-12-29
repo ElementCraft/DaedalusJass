@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadMultiboardItemHandle</name>
+	<content><![CDATA[LoadMultiboardItemHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadMultiboardItemHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

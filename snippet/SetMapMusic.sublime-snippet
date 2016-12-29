@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetMapMusic</name>
+	<content><![CDATA[SetMapMusic( ${1:musicName}, ${2:random}, ${3:index})]]></content>
+	<tabTrigger>SetMapMusic</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

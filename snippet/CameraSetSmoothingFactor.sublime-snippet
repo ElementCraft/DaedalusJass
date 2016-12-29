@@ -1,0 +1,6 @@
+<snippet>
+	<name>CameraSetSmoothingFactor</name>
+	<content><![CDATA[CameraSetSmoothingFactor( ${1:factor})]]></content>
+	<tabTrigger>CameraSetSmoothingFactor</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

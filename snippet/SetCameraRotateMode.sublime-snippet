@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetCameraRotateMode</name>
+	<content><![CDATA[SetCameraRotateMode( ${1:x}, ${2:y}, ${3:radiansToSweep}, ${4:duration})]]></content>
+	<tabTrigger>SetCameraRotateMode</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

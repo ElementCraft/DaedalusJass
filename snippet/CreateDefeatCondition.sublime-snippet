@@ -1,0 +1,6 @@
+<snippet>
+	<name>CreateDefeatCondition</name>
+	<content><![CDATA[CreateDefeatCondition()]]></content>
+	<tabTrigger>CreateDefeatCondition</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

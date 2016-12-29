@@ -1,0 +1,6 @@
+<snippet>
+	<name>HaveSavedBoolean</name>
+	<content><![CDATA[HaveSavedBoolean( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>HaveSavedBoolean</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>ResetTerrainFog</name>
+	<content><![CDATA[ResetTerrainFog()]]></content>
+	<tabTrigger>ResetTerrainFog</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

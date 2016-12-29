@@ -1,0 +1,6 @@
+<snippet>
+	<name>IssueBuildOrder</name>
+	<content><![CDATA[IssueBuildOrder( ${1:whichPeon}, ${2:unitToBuild}, ${3:x}, ${4:y})]]></content>
+	<tabTrigger>IssueBuildOrder</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>PreloadEndEx</name>
+	<content><![CDATA[PreloadEndEx()]]></content>
+	<tabTrigger>PreloadEndEx</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

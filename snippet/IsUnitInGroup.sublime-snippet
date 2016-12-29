@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsUnitInGroup</name>
+	<content><![CDATA[IsUnitInGroup( ${1:whichUnit}, ${2:whichGroup})]]></content>
+	<tabTrigger>IsUnitInGroup</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

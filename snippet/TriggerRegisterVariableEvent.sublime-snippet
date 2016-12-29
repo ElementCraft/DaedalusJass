@@ -1,0 +1,6 @@
+<snippet>
+	<name>TriggerRegisterVariableEvent</name>
+	<content><![CDATA[TriggerRegisterVariableEvent( ${1:whichTrigger}, ${2:varName}, ${3:opcode}, ${4:limitval})]]></content>
+	<tabTrigger>TriggerRegisterVariableEvent</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

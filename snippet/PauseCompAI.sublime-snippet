@@ -1,0 +1,6 @@
+<snippet>
+	<name>PauseCompAI</name>
+	<content><![CDATA[PauseCompAI( ${1:p}, ${2:pause})]]></content>
+	<tabTrigger>PauseCompAI</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

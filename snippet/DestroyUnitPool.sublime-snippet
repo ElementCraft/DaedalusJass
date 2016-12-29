@@ -1,0 +1,6 @@
+<snippet>
+	<name>DestroyUnitPool</name>
+	<content><![CDATA[DestroyUnitPool( ${1:whichPool})]]></content>
+	<tabTrigger>DestroyUnitPool</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

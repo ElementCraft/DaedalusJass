@@ -1,0 +1,6 @@
+<snippet>
+	<name>MultiboardSetItemIcon</name>
+	<content><![CDATA[MultiboardSetItemIcon( ${1:mbi}, ${2:iconFileName})]]></content>
+	<tabTrigger>MultiboardSetItemIcon</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

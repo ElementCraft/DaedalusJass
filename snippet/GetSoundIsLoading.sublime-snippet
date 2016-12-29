@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetSoundIsLoading</name>
+	<content><![CDATA[GetSoundIsLoading( ${1:soundHandle})]]></content>
+	<tabTrigger>GetSoundIsLoading</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

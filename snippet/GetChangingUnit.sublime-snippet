@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetChangingUnit</name>
+	<content><![CDATA[GetChangingUnit()]]></content>
+	<tabTrigger>GetChangingUnit</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

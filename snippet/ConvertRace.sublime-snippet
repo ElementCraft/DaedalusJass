@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertRace</name>
+	<content><![CDATA[ConvertRace( ${1:i})]]></content>
+	<tabTrigger>ConvertRace</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

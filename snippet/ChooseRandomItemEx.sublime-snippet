@@ -1,0 +1,6 @@
+<snippet>
+	<name>ChooseRandomItemEx</name>
+	<content><![CDATA[ChooseRandomItemEx( ${1:whichType}, ${2:level})]]></content>
+	<tabTrigger>ChooseRandomItemEx</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

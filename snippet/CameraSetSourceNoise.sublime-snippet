@@ -1,0 +1,6 @@
+<snippet>
+	<name>CameraSetSourceNoise</name>
+	<content><![CDATA[CameraSetSourceNoise( ${1:mag}, ${2:velocity})]]></content>
+	<tabTrigger>CameraSetSourceNoise</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

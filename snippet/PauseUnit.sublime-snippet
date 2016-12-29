@@ -1,0 +1,6 @@
+<snippet>
+	<name>PauseUnit</name>
+	<content><![CDATA[PauseUnit( ${1:whichUnit}, ${2:flag})]]></content>
+	<tabTrigger>PauseUnit</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

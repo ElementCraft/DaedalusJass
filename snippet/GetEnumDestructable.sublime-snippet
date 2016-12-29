@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetEnumDestructable</name>
+	<content><![CDATA[GetEnumDestructable()]]></content>
+	<tabTrigger>GetEnumDestructable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

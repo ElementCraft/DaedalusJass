@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetLocalPlayer</name>
+	<content><![CDATA[GetLocalPlayer()]]></content>
+	<tabTrigger>GetLocalPlayer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

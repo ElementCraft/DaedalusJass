@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetAllyColorFilterState</name>
+	<content><![CDATA[SetAllyColorFilterState( ${1:state})]]></content>
+	<tabTrigger>SetAllyColorFilterState</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

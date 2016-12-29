@@ -1,0 +1,6 @@
+<snippet>
+	<name>Asin</name>
+	<content><![CDATA[Asin( ${1:y})]]></content>
+	<tabTrigger>Asin</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

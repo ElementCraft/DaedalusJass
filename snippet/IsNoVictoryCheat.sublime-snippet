@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsNoVictoryCheat</name>
+	<content><![CDATA[IsNoVictoryCheat()]]></content>
+	<tabTrigger>IsNoVictoryCheat</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

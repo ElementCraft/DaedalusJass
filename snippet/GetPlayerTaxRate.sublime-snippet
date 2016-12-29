@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetPlayerTaxRate</name>
+	<content><![CDATA[GetPlayerTaxRate( ${1:sourcePlayer}, ${2:otherPlayer}, ${3:whichResource})]]></content>
+	<tabTrigger>GetPlayerTaxRate</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

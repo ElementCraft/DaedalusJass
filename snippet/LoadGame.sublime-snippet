@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadGame</name>
+	<content><![CDATA[LoadGame( ${1:saveFileName}, ${2:doScoreScreen})]]></content>
+	<tabTrigger>LoadGame</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

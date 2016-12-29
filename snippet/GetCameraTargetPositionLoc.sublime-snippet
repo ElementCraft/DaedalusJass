@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetCameraTargetPositionLoc</name>
+	<content><![CDATA[GetCameraTargetPositionLoc()]]></content>
+	<tabTrigger>GetCameraTargetPositionLoc</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

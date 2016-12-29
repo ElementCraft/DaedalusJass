@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetOrderPointX</name>
+	<content><![CDATA[GetOrderPointX()]]></content>
+	<tabTrigger>GetOrderPointX</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

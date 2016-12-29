@@ -1,0 +1,6 @@
+<snippet>
+	<name>ShowDestructable</name>
+	<content><![CDATA[ShowDestructable( ${1:d}, ${2:flag})]]></content>
+	<tabTrigger>ShowDestructable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

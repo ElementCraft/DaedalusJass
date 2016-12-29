@@ -1,0 +1,6 @@
+<snippet>
+	<name>TimerDialogDisplay</name>
+	<content><![CDATA[TimerDialogDisplay( ${1:whichDialog}, ${2:display})]]></content>
+	<tabTrigger>TimerDialogDisplay</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

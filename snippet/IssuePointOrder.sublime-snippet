@@ -1,0 +1,6 @@
+<snippet>
+	<name>IssuePointOrder</name>
+	<content><![CDATA[IssuePointOrder( ${1:whichUnit}, ${2:order}, ${3:x}, ${4:y})]]></content>
+	<tabTrigger>IssuePointOrder</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

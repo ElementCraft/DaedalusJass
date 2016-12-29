@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetDoodadAnimation</name>
+	<content><![CDATA[SetDoodadAnimation( ${1:x}, ${2:y}, ${3:radius}, ${4:doodadID}, ${5:nearestOnly}, ${6:animName}, ${7:animRandom})]]></content>
+	<tabTrigger>SetDoodadAnimation</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

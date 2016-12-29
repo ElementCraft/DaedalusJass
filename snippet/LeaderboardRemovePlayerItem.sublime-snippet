@@ -1,0 +1,6 @@
+<snippet>
+	<name>LeaderboardRemovePlayerItem</name>
+	<content><![CDATA[LeaderboardRemovePlayerItem( ${1:lb}, ${2:p})]]></content>
+	<tabTrigger>LeaderboardRemovePlayerItem</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

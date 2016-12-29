@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadTriggerActionHandle</name>
+	<content><![CDATA[LoadTriggerActionHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadTriggerActionHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

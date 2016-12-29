@@ -1,0 +1,6 @@
+<snippet>
+	<name>AddSpecialEffectLoc</name>
+	<content><![CDATA[AddSpecialEffectLoc( ${1:modelName}, ${2:where})]]></content>
+	<tabTrigger>AddSpecialEffectLoc</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetIntroShotText</name>
+	<content><![CDATA[SetIntroShotText( ${1:introText})]]></content>
+	<tabTrigger>SetIntroShotText</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

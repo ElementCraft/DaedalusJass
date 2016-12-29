@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetLocalizedString</name>
+	<content><![CDATA[GetLocalizedString( ${1:source})]]></content>
+	<tabTrigger>GetLocalizedString</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>R2SW</name>
+	<content><![CDATA[R2SW( ${1:r}, ${2:width}, ${3:precision})]]></content>
+	<tabTrigger>R2SW</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

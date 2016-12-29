@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetEventPlayerChatString</name>
+	<content><![CDATA[GetEventPlayerChatString()]]></content>
+	<tabTrigger>GetEventPlayerChatString</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

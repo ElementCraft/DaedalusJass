@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetHeroInt</name>
+	<content><![CDATA[SetHeroInt( ${1:whichHero}, ${2:newInt}, ${3:permanent})]]></content>
+	<tabTrigger>SetHeroInt</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

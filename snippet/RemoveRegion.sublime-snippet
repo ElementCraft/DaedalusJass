@@ -1,0 +1,6 @@
+<snippet>
+	<name>RemoveRegion</name>
+	<content><![CDATA[RemoveRegion( ${1:whichRegion})]]></content>
+	<tabTrigger>RemoveRegion</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

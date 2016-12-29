@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetMissionAvailable</name>
+	<content><![CDATA[SetMissionAvailable( ${1:campaignNumber}, ${2:missionNumber}, ${3:available})]]></content>
+	<tabTrigger>SetMissionAvailable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

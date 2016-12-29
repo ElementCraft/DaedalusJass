@@ -1,0 +1,6 @@
+<snippet>
+	<name>CameraSetupApplyForceDuration</name>
+	<content><![CDATA[CameraSetupApplyForceDuration( ${1:whichSetup}, ${2:doPan}, ${3:forceDuration})]]></content>
+	<tabTrigger>CameraSetupApplyForceDuration</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

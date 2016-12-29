@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetUnitDefaultAcquireRange</name>
+	<content><![CDATA[GetUnitDefaultAcquireRange( ${1:whichUnit})]]></content>
+	<tabTrigger>GetUnitDefaultAcquireRange</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

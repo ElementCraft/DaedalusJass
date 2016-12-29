@@ -1,0 +1,6 @@
+<snippet>
+	<name>LeaderboardGetItemCount</name>
+	<content><![CDATA[LeaderboardGetItemCount( ${1:lb})]]></content>
+	<tabTrigger>LeaderboardGetItemCount</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>QueueUnitAnimation</name>
+	<content><![CDATA[QueueUnitAnimation( ${1:whichUnit}, ${2:whichAnimation})]]></content>
+	<tabTrigger>QueueUnitAnimation</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

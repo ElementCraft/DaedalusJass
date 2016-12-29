@@ -1,0 +1,6 @@
+<snippet>
+	<name>DestroyCondition</name>
+	<content><![CDATA[DestroyCondition( ${1:c})]]></content>
+	<tabTrigger>DestroyCondition</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

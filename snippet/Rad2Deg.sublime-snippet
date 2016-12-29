@@ -1,0 +1,6 @@
+<snippet>
+	<name>Rad2Deg</name>
+	<content><![CDATA[Rad2Deg( ${1:radians})]]></content>
+	<tabTrigger>Rad2Deg</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

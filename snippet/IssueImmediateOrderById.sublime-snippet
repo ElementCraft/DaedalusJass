@@ -1,0 +1,6 @@
+<snippet>
+	<name>IssueImmediateOrderById</name>
+	<content><![CDATA[IssueImmediateOrderById( ${1:whichUnit}, ${2:order})]]></content>
+	<tabTrigger>IssueImmediateOrderById</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

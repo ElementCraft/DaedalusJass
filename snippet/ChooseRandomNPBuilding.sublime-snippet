@@ -1,0 +1,6 @@
+<snippet>
+	<name>ChooseRandomNPBuilding</name>
+	<content><![CDATA[ChooseRandomNPBuilding()]]></content>
+	<tabTrigger>ChooseRandomNPBuilding</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

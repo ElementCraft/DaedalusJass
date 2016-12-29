@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadSoundHandle</name>
+	<content><![CDATA[LoadSoundHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadSoundHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

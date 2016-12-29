@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetImageRenderAlways</name>
+	<content><![CDATA[SetImageRenderAlways( ${1:whichImage}, ${2:flag})]]></content>
+	<tabTrigger>SetImageRenderAlways</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

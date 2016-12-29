@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsItemPowerup</name>
+	<content><![CDATA[IsItemPowerup( ${1:whichItem})]]></content>
+	<tabTrigger>IsItemPowerup</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

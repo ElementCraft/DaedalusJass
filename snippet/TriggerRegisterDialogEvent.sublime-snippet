@@ -1,0 +1,6 @@
+<snippet>
+	<name>TriggerRegisterDialogEvent</name>
+	<content><![CDATA[TriggerRegisterDialogEvent( ${1:whichTrigger}, ${2:whichDialog})]]></content>
+	<tabTrigger>TriggerRegisterDialogEvent</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

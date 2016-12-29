@@ -1,0 +1,6 @@
+<snippet>
+	<name>MultiboardSetItemStyle</name>
+	<content><![CDATA[MultiboardSetItemStyle( ${1:mbi}, ${2:showValue}, ${3:showIcon})]]></content>
+	<tabTrigger>MultiboardSetItemStyle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

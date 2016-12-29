@@ -1,0 +1,6 @@
+<snippet>
+	<name>RemoveItemFromAllStock</name>
+	<content><![CDATA[RemoveItemFromAllStock( ${1:itemId})]]></content>
+	<tabTrigger>RemoveItemFromAllStock</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

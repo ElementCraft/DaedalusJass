@@ -1,0 +1,6 @@
+<snippet>
+	<name>SaveTimerDialogHandle</name>
+	<content><![CDATA[SaveTimerDialogHandle( ${1:table}, ${2:parentKey}, ${3:childKey}, ${4:whichTimerdialog})]]></content>
+	<tabTrigger>SaveTimerDialogHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

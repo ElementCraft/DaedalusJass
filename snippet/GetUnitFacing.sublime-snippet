@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetUnitFacing</name>
+	<content><![CDATA[GetUnitFacing( ${1:whichUnit})]]></content>
+	<tabTrigger>GetUnitFacing</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

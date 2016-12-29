@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetPlayerController</name>
+	<content><![CDATA[GetPlayerController( ${1:whichPlayer})]]></content>
+	<tabTrigger>GetPlayerController</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>EnumDestructablesInRect</name>
+	<content><![CDATA[EnumDestructablesInRect( ${1:r}, ${2:filter}, ${3:actionFunc})]]></content>
+	<tabTrigger>EnumDestructablesInRect</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

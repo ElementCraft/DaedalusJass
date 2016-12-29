@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadImageHandle</name>
+	<content><![CDATA[LoadImageHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadImageHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

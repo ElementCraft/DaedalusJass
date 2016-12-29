@@ -1,0 +1,6 @@
+<snippet>
+	<name>TriggerAddAction</name>
+	<content><![CDATA[TriggerAddAction( ${1:whichTrigger}, ${2:actionFunc})]]></content>
+	<tabTrigger>TriggerAddAction</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

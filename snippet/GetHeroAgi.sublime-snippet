@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetHeroAgi</name>
+	<content><![CDATA[GetHeroAgi( ${1:whichHero}, ${2:includeBonuses})]]></content>
+	<tabTrigger>GetHeroAgi</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

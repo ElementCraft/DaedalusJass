@@ -1,0 +1,6 @@
+<snippet>
+	<name>GroupEnumUnitsSelected</name>
+	<content><![CDATA[GroupEnumUnitsSelected( ${1:whichGroup}, ${2:whichPlayer}, ${3:filter})]]></content>
+	<tabTrigger>GroupEnumUnitsSelected</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

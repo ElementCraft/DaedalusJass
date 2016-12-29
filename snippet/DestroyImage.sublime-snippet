@@ -1,0 +1,6 @@
+<snippet>
+	<name>DestroyImage</name>
+	<content><![CDATA[DestroyImage( ${1:whichImage})]]></content>
+	<tabTrigger>DestroyImage</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

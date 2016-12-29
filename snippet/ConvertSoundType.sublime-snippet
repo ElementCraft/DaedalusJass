@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertSoundType</name>
+	<content><![CDATA[ConvertSoundType( ${1:i})]]></content>
+	<tabTrigger>ConvertSoundType</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

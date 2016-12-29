@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetUnitBlendTime</name>
+	<content><![CDATA[SetUnitBlendTime( ${1:whichUnit}, ${2:blendTime})]]></content>
+	<tabTrigger>SetUnitBlendTime</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

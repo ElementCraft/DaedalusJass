@@ -1,0 +1,6 @@
+<snippet>
+	<name>TriggerRegisterPlayerAllianceChange</name>
+	<content><![CDATA[TriggerRegisterPlayerAllianceChange( ${1:whichTrigger}, ${2:whichPlayer}, ${3:whichAlliance})]]></content>
+	<tabTrigger>TriggerRegisterPlayerAllianceChange</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>PlayMusicEx</name>
+	<content><![CDATA[PlayMusicEx( ${1:musicName}, ${2:frommsecs}, ${3:fadeinmsecs})]]></content>
+	<tabTrigger>PlayMusicEx</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

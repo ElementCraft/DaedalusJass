@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertPlayerState</name>
+	<content><![CDATA[ConvertPlayerState( ${1:i})]]></content>
+	<tabTrigger>ConvertPlayerState</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

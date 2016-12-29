@@ -1,0 +1,6 @@
+<snippet>
+	<name>PanCameraToTimedWithZ</name>
+	<content><![CDATA[PanCameraToTimedWithZ( ${1:x}, ${2:y}, ${3:zOffsetDest}, ${4:duration})]]></content>
+	<tabTrigger>PanCameraToTimedWithZ</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

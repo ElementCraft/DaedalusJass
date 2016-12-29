@@ -1,0 +1,6 @@
+<snippet>
+	<name>DisplayTextToPlayer</name>
+	<content><![CDATA[DisplayTextToPlayer( ${1:toPlayer}, ${2:x}, ${3:y}, ${4:message})]]></content>
+	<tabTrigger>DisplayTextToPlayer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

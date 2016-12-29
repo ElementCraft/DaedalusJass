@@ -1,0 +1,6 @@
+<snippet>
+	<name>CopySaveGame</name>
+	<content><![CDATA[CopySaveGame( ${1:sourceSaveName}, ${2:destSaveName})]]></content>
+	<tabTrigger>CopySaveGame</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

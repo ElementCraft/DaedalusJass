@@ -1,0 +1,6 @@
+<snippet>
+	<name>TriggerWaitForSound</name>
+	<content><![CDATA[TriggerWaitForSound( ${1:s}, ${2:offset})]]></content>
+	<tabTrigger>TriggerWaitForSound</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

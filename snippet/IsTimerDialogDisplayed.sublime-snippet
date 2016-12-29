@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsTimerDialogDisplayed</name>
+	<content><![CDATA[IsTimerDialogDisplayed( ${1:whichDialog})]]></content>
+	<tabTrigger>IsTimerDialogDisplayed</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

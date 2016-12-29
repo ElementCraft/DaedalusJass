@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsItemPawnable</name>
+	<content><![CDATA[IsItemPawnable( ${1:whichItem})]]></content>
+	<tabTrigger>IsItemPawnable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

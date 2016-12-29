@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetExpiredTimer</name>
+	<content><![CDATA[GetExpiredTimer()]]></content>
+	<tabTrigger>GetExpiredTimer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

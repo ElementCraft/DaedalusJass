@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsHeroUnitId</name>
+	<content><![CDATA[IsHeroUnitId( ${1:unitId})]]></content>
+	<tabTrigger>IsHeroUnitId</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

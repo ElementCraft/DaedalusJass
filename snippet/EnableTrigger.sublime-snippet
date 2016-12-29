@@ -1,0 +1,6 @@
+<snippet>
+	<name>EnableTrigger</name>
+	<content><![CDATA[EnableTrigger( ${1:whichTrigger})]]></content>
+	<tabTrigger>EnableTrigger</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>IssueInstantTargetOrder</name>
+	<content><![CDATA[IssueInstantTargetOrder( ${1:whichUnit}, ${2:order}, ${3:targetWidget}, ${4:instantTargetWidget})]]></content>
+	<tabTrigger>IssueInstantTargetOrder</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

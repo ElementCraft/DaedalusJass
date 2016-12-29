@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadReal</name>
+	<content><![CDATA[LoadReal( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadReal</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

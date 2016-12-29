@@ -1,0 +1,6 @@
+<snippet>
+	<name>TriggerSleepAction</name>
+	<content><![CDATA[TriggerSleepAction( ${1:timeout})]]></content>
+	<tabTrigger>TriggerSleepAction</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

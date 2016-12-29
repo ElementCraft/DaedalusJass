@@ -1,0 +1,6 @@
+<snippet>
+	<name>IssueNeutralPointOrderById</name>
+	<content><![CDATA[IssueNeutralPointOrderById( ${1:forWhichPlayer,unit}, ${2:integer}, ${3:real}, ${4:real})]]></content>
+	<tabTrigger>IssueNeutralPointOrderById</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

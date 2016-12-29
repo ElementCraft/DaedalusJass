@@ -1,0 +1,6 @@
+<snippet>
+	<name>MultiboardGetTitleText</name>
+	<content><![CDATA[MultiboardGetTitleText( ${1:lb})]]></content>
+	<tabTrigger>MultiboardGetTitleText</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

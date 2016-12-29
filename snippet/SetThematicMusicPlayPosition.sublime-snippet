@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetThematicMusicPlayPosition</name>
+	<content><![CDATA[SetThematicMusicPlayPosition( ${1:millisecs})]]></content>
+	<tabTrigger>SetThematicMusicPlayPosition</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>TimerStart</name>
+	<content><![CDATA[TimerStart( ${1:whichTimer}, ${2:timeout}, ${3:periodic}, ${4:handlerFunc})]]></content>
+	<tabTrigger>TimerStart</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

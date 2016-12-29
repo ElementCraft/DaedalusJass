@@ -1,0 +1,6 @@
+<snippet>
+	<name>QuestItemSetCompleted</name>
+	<content><![CDATA[QuestItemSetCompleted( ${1:whichQuestItem}, ${2:completed})]]></content>
+	<tabTrigger>QuestItemSetCompleted</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

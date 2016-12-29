@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetTransportUnit</name>
+	<content><![CDATA[GetTransportUnit()]]></content>
+	<tabTrigger>GetTransportUnit</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

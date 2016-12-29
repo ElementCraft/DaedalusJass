@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetChangingUnitPrevOwner</name>
+	<content><![CDATA[GetChangingUnitPrevOwner()]]></content>
+	<tabTrigger>GetChangingUnitPrevOwner</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

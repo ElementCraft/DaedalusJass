@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitSetUpgradeProgress</name>
+	<content><![CDATA[UnitSetUpgradeProgress( ${1:whichUnit}, ${2:upgradePercentage})]]></content>
+	<tabTrigger>UnitSetUpgradeProgress</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

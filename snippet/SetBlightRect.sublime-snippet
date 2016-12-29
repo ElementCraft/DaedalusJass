@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetBlightRect</name>
+	<content><![CDATA[SetBlightRect( ${1:whichPlayer}, ${2:r}, ${3:addBlight})]]></content>
+	<tabTrigger>SetBlightRect</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

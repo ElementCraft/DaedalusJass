@@ -1,0 +1,6 @@
+<snippet>
+	<name>GroupRemoveUnit</name>
+	<content><![CDATA[GroupRemoveUnit( ${1:whichGroup}, ${2:whichUnit})]]></content>
+	<tabTrigger>GroupRemoveUnit</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>CreateTimerDialog</name>
+	<content><![CDATA[CreateTimerDialog( ${1:t})]]></content>
+	<tabTrigger>CreateTimerDialog</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

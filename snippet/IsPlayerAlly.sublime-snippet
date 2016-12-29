@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsPlayerAlly</name>
+	<content><![CDATA[IsPlayerAlly( ${1:whichPlayer}, ${2:otherPlayer})]]></content>
+	<tabTrigger>IsPlayerAlly</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

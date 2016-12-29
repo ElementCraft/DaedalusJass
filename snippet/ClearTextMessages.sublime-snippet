@@ -1,0 +1,6 @@
+<snippet>
+	<name>ClearTextMessages</name>
+	<content><![CDATA[ClearTextMessages()]]></content>
+	<tabTrigger>ClearTextMessages</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

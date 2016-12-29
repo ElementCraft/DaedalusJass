@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadLeaderboardHandle</name>
+	<content><![CDATA[LoadLeaderboardHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadLeaderboardHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

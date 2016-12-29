@@ -1,0 +1,6 @@
+<snippet>
+	<name>RemoveSavedString</name>
+	<content><![CDATA[RemoveSavedString( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>RemoveSavedString</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>AddResourceAmount</name>
+	<content><![CDATA[AddResourceAmount( ${1:whichUnit}, ${2:amount})]]></content>
+	<tabTrigger>AddResourceAmount</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

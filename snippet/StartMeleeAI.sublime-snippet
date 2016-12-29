@@ -1,0 +1,6 @@
+<snippet>
+	<name>StartMeleeAI</name>
+	<content><![CDATA[StartMeleeAI( ${1:num}, ${2:script})]]></content>
+	<tabTrigger>StartMeleeAI</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

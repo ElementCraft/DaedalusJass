@@ -1,0 +1,6 @@
+<snippet>
+	<name>ForceEnumPlayersCounted</name>
+	<content><![CDATA[ForceEnumPlayersCounted( ${1:whichForce}, ${2:filter}, ${3:countLimit})]]></content>
+	<tabTrigger>ForceEnumPlayersCounted</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

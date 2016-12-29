@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetOrderTargetItem</name>
+	<content><![CDATA[GetOrderTargetItem()]]></content>
+	<tabTrigger>GetOrderTargetItem</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

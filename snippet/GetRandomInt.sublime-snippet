@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetRandomInt</name>
+	<content><![CDATA[GetRandomInt( ${1:lowBound}, ${2:highBound})]]></content>
+	<tabTrigger>GetRandomInt</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

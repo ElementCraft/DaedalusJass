@@ -1,0 +1,6 @@
+<snippet>
+	<name>SaveGameCache</name>
+	<content><![CDATA[SaveGameCache( ${1:whichCache})]]></content>
+	<tabTrigger>SaveGameCache</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

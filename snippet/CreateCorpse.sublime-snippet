@@ -1,0 +1,6 @@
+<snippet>
+	<name>CreateCorpse</name>
+	<content><![CDATA[CreateCorpse( ${1:whichPlayer}, ${2:unitid}, ${3:x}, ${4:y}, ${5:face})]]></content>
+	<tabTrigger>CreateCorpse</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

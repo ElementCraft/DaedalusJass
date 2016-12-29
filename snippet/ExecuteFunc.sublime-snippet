@@ -1,0 +1,6 @@
+<snippet>
+	<name>ExecuteFunc</name>
+	<content><![CDATA[ExecuteFunc( ${1:funcName})]]></content>
+	<tabTrigger>ExecuteFunc</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

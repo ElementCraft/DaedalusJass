@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetGameDifficulty</name>
+	<content><![CDATA[SetGameDifficulty( ${1:whichdifficulty})]]></content>
+	<tabTrigger>SetGameDifficulty</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

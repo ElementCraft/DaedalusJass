@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetTriggerDestructable</name>
+	<content><![CDATA[GetTriggerDestructable()]]></content>
+	<tabTrigger>GetTriggerDestructable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

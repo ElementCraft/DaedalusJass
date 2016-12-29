@@ -1,0 +1,6 @@
+<snippet>
+	<name>CreateSound</name>
+	<content><![CDATA[CreateSound( ${1:fileName}, ${2:looping}, ${3:is3D}, ${4:stopwhenoutofrange}, ${5:fadeInRate}, ${6:fadeOutRate}, ${7:eaxSetting})]]></content>
+	<tabTrigger>CreateSound</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

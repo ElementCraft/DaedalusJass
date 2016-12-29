@@ -1,0 +1,6 @@
+<snippet>
+	<name>EndGame</name>
+	<content><![CDATA[EndGame( ${1:doScoreScreen})]]></content>
+	<tabTrigger>EndGame</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

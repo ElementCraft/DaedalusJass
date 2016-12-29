@@ -1,0 +1,6 @@
+<snippet>
+	<name>SaveLeaderboardHandle</name>
+	<content><![CDATA[SaveLeaderboardHandle( ${1:table}, ${2:parentKey}, ${3:childKey}, ${4:whichLeaderboard})]]></content>
+	<tabTrigger>SaveLeaderboardHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

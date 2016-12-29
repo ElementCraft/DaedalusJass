@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsQuestFailed</name>
+	<content><![CDATA[IsQuestFailed( ${1:whichQuest})]]></content>
+	<tabTrigger>IsQuestFailed</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

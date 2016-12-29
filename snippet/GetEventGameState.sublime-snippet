@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetEventGameState</name>
+	<content><![CDATA[GetEventGameState()]]></content>
+	<tabTrigger>GetEventGameState</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>QuestSetIconPath</name>
+	<content><![CDATA[QuestSetIconPath( ${1:whichQuest}, ${2:iconPath})]]></content>
+	<tabTrigger>QuestSetIconPath</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

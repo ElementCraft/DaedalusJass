@@ -1,0 +1,6 @@
+<snippet>
+	<name>AddIndicator</name>
+	<content><![CDATA[AddIndicator( ${1:whichWidget}, ${2:red}, ${3:green}, ${4:blue}, ${5:alpha})]]></content>
+	<tabTrigger>AddIndicator</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

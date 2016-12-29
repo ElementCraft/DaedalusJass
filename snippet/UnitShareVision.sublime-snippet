@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitShareVision</name>
+	<content><![CDATA[UnitShareVision( ${1:whichUnit}, ${2:whichPlayer}, ${3:share})]]></content>
+	<tabTrigger>UnitShareVision</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

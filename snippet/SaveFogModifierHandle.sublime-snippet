@@ -1,0 +1,6 @@
+<snippet>
+	<name>SaveFogModifierHandle</name>
+	<content><![CDATA[SaveFogModifierHandle( ${1:table}, ${2:parentKey}, ${3:childKey}, ${4:whichFogModifier})]]></content>
+	<tabTrigger>SaveFogModifierHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

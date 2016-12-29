@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetPlayerTypedUnitCount</name>
+	<content><![CDATA[GetPlayerTypedUnitCount( ${1:whichPlayer}, ${2:unitName}, ${3:includeIncomplete}, ${4:includeUpgrades})]]></content>
+	<tabTrigger>GetPlayerTypedUnitCount</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

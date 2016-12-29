@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertRarityControl</name>
+	<content><![CDATA[ConvertRarityControl( ${1:i})]]></content>
+	<tabTrigger>ConvertRarityControl</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

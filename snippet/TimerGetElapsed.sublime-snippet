@@ -1,0 +1,6 @@
+<snippet>
+	<name>TimerGetElapsed</name>
+	<content><![CDATA[TimerGetElapsed( ${1:whichTimer})]]></content>
+	<tabTrigger>TimerGetElapsed</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

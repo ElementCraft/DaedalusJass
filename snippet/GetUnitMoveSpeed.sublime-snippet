@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetUnitMoveSpeed</name>
+	<content><![CDATA[GetUnitMoveSpeed( ${1:whichUnit})]]></content>
+	<tabTrigger>GetUnitMoveSpeed</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>TriggerClearConditions</name>
+	<content><![CDATA[TriggerClearConditions( ${1:whichTrigger})]]></content>
+	<tabTrigger>TriggerClearConditions</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>ResetUbersplat</name>
+	<content><![CDATA[ResetUbersplat( ${1:whichSplat})]]></content>
+	<tabTrigger>ResetUbersplat</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

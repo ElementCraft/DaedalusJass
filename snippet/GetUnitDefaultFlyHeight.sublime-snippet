@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetUnitDefaultFlyHeight</name>
+	<content><![CDATA[GetUnitDefaultFlyHeight( ${1:whichUnit})]]></content>
+	<tabTrigger>GetUnitDefaultFlyHeight</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadHashtableHandle</name>
+	<content><![CDATA[LoadHashtableHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadHashtableHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

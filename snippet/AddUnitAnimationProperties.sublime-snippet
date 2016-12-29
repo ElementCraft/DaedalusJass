@@ -1,0 +1,6 @@
+<snippet>
+	<name>AddUnitAnimationProperties</name>
+	<content><![CDATA[AddUnitAnimationProperties( ${1:whichUnit}, ${2:animProperties}, ${3:add})]]></content>
+	<tabTrigger>AddUnitAnimationProperties</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

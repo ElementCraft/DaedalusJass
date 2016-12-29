@@ -1,0 +1,6 @@
+<snippet>
+	<name>DisplayTimedTextFromPlayer</name>
+	<content><![CDATA[DisplayTimedTextFromPlayer( ${1:toPlayer}, ${2:x}, ${3:y}, ${4:duration}, ${5:message})]]></content>
+	<tabTrigger>DisplayTimedTextFromPlayer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

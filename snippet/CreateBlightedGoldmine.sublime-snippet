@@ -1,0 +1,6 @@
+<snippet>
+	<name>CreateBlightedGoldmine</name>
+	<content><![CDATA[CreateBlightedGoldmine( ${1:id}, ${2:x}, ${3:y}, ${4:face})]]></content>
+	<tabTrigger>CreateBlightedGoldmine</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

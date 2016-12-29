@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetCameraField</name>
+	<content><![CDATA[GetCameraField( ${1:whichField})]]></content>
+	<tabTrigger>GetCameraField</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

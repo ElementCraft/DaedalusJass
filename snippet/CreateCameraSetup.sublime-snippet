@@ -1,0 +1,6 @@
+<snippet>
+	<name>CreateCameraSetup</name>
+	<content><![CDATA[CreateCameraSetup()]]></content>
+	<tabTrigger>CreateCameraSetup</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

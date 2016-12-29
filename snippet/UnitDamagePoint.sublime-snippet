@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitDamagePoint</name>
+	<content><![CDATA[UnitDamagePoint( ${1:whichUnit}, ${2:delay}, ${3:radius}, ${4:x}, ${5:y}, ${6:amount}, ${7:attack}, ${8:ranged}, ${9:attackType}, ${10:damageType}, ${11:weaponType})]]></content>
+	<tabTrigger>UnitDamagePoint</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

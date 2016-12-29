@@ -1,0 +1,6 @@
+<snippet>
+	<name>FlashQuestDialogButton</name>
+	<content><![CDATA[FlashQuestDialogButton()]]></content>
+	<tabTrigger>FlashQuestDialogButton</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

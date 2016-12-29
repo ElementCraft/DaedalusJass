@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetPlayerStructureCount</name>
+	<content><![CDATA[GetPlayerStructureCount( ${1:whichPlayer}, ${2:includeIncomplete})]]></content>
+	<tabTrigger>GetPlayerStructureCount</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

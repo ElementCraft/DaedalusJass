@@ -1,0 +1,6 @@
+<snippet>
+	<name>SaveGroupHandle</name>
+	<content><![CDATA[SaveGroupHandle( ${1:table}, ${2:parentKey}, ${3:childKey}, ${4:whichGroup})]]></content>
+	<tabTrigger>SaveGroupHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

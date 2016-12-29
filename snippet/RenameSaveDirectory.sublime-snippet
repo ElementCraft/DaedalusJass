@@ -1,0 +1,6 @@
+<snippet>
+	<name>RenameSaveDirectory</name>
+	<content><![CDATA[RenameSaveDirectory( ${1:sourceDirName}, ${2:destDirName})]]></content>
+	<tabTrigger>RenameSaveDirectory</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

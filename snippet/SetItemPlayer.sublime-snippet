@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetItemPlayer</name>
+	<content><![CDATA[SetItemPlayer( ${1:whichItem}, ${2:whichPlayer}, ${3:changeColor})]]></content>
+	<tabTrigger>SetItemPlayer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

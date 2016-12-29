@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitRemoveType</name>
+	<content><![CDATA[UnitRemoveType( ${1:whichUnit}, ${2:whichUnitType})]]></content>
+	<tabTrigger>UnitRemoveType</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertVersion</name>
+	<content><![CDATA[ConvertVersion( ${1:i})]]></content>
+	<tabTrigger>ConvertVersion</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

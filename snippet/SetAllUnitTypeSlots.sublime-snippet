@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetAllUnitTypeSlots</name>
+	<content><![CDATA[SetAllUnitTypeSlots( ${1:slots})]]></content>
+	<tabTrigger>SetAllUnitTypeSlots</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

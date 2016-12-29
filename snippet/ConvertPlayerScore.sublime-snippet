@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertPlayerScore</name>
+	<content><![CDATA[ConvertPlayerScore( ${1:i})]]></content>
+	<tabTrigger>ConvertPlayerScore</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

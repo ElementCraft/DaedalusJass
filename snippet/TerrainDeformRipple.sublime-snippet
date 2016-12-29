@@ -1,0 +1,6 @@
+<snippet>
+	<name>TerrainDeformRipple</name>
+	<content><![CDATA[TerrainDeformRipple( ${1:x}, ${2:y}, ${3:radius}, ${4:depth}, ${5:duration}, ${6:count}, ${7:spaceWaves}, ${8:timeWaves}, ${9:radiusStartPct}, ${10:limitNeg})]]></content>
+	<tabTrigger>TerrainDeformRipple</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

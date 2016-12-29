@@ -1,0 +1,6 @@
+<snippet>
+	<name>DisplayLoadDialog</name>
+	<content><![CDATA[DisplayLoadDialog()]]></content>
+	<tabTrigger>DisplayLoadDialog</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

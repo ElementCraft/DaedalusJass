@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitRemoveItemFromSlot</name>
+	<content><![CDATA[UnitRemoveItemFromSlot( ${1:whichUnit}, ${2:itemSlot})]]></content>
+	<tabTrigger>UnitRemoveItemFromSlot</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

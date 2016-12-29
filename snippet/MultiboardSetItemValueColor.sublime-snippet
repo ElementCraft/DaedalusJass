@@ -1,0 +1,6 @@
+<snippet>
+	<name>MultiboardSetItemValueColor</name>
+	<content><![CDATA[MultiboardSetItemValueColor( ${1:mbi}, ${2:red}, ${3:green}, ${4:blue}, ${5:alpha})]]></content>
+	<tabTrigger>MultiboardSetItemValueColor</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>SaveRegionHandle</name>
+	<content><![CDATA[SaveRegionHandle( ${1:table}, ${2:parentKey}, ${3:childKey}, ${4:whichRegion})]]></content>
+	<tabTrigger>SaveRegionHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

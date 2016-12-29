@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetTournamentScore</name>
+	<content><![CDATA[GetTournamentScore( ${1:whichPlayer})]]></content>
+	<tabTrigger>GetTournamentScore</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

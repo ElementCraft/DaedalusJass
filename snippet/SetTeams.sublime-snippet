@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetTeams</name>
+	<content><![CDATA[SetTeams( ${1:teamcount})]]></content>
+	<tabTrigger>SetTeams</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

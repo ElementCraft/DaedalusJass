@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetDestructableY</name>
+	<content><![CDATA[GetDestructableY( ${1:d})]]></content>
+	<tabTrigger>GetDestructableY</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

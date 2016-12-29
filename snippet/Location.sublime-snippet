@@ -1,0 +1,6 @@
+<snippet>
+	<name>Location</name>
+	<content><![CDATA[Location( ${1:x}, ${2:y})]]></content>
+	<tabTrigger>Location</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

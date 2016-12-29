@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadTimerHandle</name>
+	<content><![CDATA[LoadTimerHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadTimerHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

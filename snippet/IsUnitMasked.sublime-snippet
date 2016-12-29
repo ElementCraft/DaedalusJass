@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsUnitMasked</name>
+	<content><![CDATA[IsUnitMasked( ${1:whichUnit}, ${2:whichPlayer})]]></content>
+	<tabTrigger>IsUnitMasked</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

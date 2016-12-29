@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetTextTagLifespan</name>
+	<content><![CDATA[SetTextTagLifespan( ${1:t}, ${2:lifespan})]]></content>
+	<tabTrigger>SetTextTagLifespan</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

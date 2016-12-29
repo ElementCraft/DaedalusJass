@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetCampaignMenuRace</name>
+	<content><![CDATA[SetCampaignMenuRace( ${1:r})]]></content>
+	<tabTrigger>SetCampaignMenuRace</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

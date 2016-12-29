@@ -1,0 +1,6 @@
+<snippet>
+	<name>AddSpellEffectById</name>
+	<content><![CDATA[AddSpellEffectById( ${1:abilityId}, ${2:t,real}, ${3:real})]]></content>
+	<tabTrigger>AddSpellEffectById</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

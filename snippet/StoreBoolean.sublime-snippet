@@ -1,0 +1,6 @@
+<snippet>
+	<name>StoreBoolean</name>
+	<content><![CDATA[StoreBoolean( ${1:cache}, ${2:missionKey}, ${3:key}, ${4:value})]]></content>
+	<tabTrigger>StoreBoolean</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

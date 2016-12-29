@@ -1,0 +1,6 @@
+<snippet>
+	<name>StopMusic</name>
+	<content><![CDATA[StopMusic( ${1:fadeOut})]]></content>
+	<tabTrigger>StopMusic</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

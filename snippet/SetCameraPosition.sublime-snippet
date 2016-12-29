@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetCameraPosition</name>
+	<content><![CDATA[SetCameraPosition( ${1:x}, ${2:y})]]></content>
+	<tabTrigger>SetCameraPosition</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetConstructedStructure</name>
+	<content><![CDATA[GetConstructedStructure()]]></content>
+	<tabTrigger>GetConstructedStructure</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

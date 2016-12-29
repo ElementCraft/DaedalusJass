@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetEventDamageSource</name>
+	<content><![CDATA[GetEventDamageSource()]]></content>
+	<tabTrigger>GetEventDamageSource</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

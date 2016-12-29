@@ -1,0 +1,6 @@
+<snippet>
+	<name>DestroyGroup</name>
+	<content><![CDATA[DestroyGroup( ${1:whichGroup})]]></content>
+	<tabTrigger>DestroyGroup</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>IssueNeutralTargetOrder</name>
+	<content><![CDATA[IssueNeutralTargetOrder( ${1:forWhichPlayer,unit}, ${2:string}, ${3:widget})]]></content>
+	<tabTrigger>IssueNeutralTargetOrder</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

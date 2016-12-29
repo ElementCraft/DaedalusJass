@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadDestructableHandle</name>
+	<content><![CDATA[LoadDestructableHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadDestructableHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

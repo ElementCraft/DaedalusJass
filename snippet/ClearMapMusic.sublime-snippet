@@ -1,0 +1,6 @@
+<snippet>
+	<name>ClearMapMusic</name>
+	<content><![CDATA[ClearMapMusic()]]></content>
+	<tabTrigger>ClearMapMusic</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

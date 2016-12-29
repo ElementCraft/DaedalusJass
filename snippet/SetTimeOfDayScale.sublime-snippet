@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetTimeOfDayScale</name>
+	<content><![CDATA[SetTimeOfDayScale( ${1:r})]]></content>
+	<tabTrigger>SetTimeOfDayScale</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

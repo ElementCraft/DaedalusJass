@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetItemCharges</name>
+	<content><![CDATA[GetItemCharges( ${1:whichItem})]]></content>
+	<tabTrigger>GetItemCharges</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

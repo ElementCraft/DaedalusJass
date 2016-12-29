@@ -1,0 +1,6 @@
+<snippet>
+	<name>SuspendHeroXP</name>
+	<content><![CDATA[SuspendHeroXP( ${1:whichHero}, ${2:flag})]]></content>
+	<tabTrigger>SuspendHeroXP</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>CameraSetupApplyWithZ</name>
+	<content><![CDATA[CameraSetupApplyWithZ( ${1:whichSetup}, ${2:zDestOffset})]]></content>
+	<tabTrigger>CameraSetupApplyWithZ</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

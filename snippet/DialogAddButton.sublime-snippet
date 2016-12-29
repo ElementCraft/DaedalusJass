@@ -1,0 +1,6 @@
+<snippet>
+	<name>DialogAddButton</name>
+	<content><![CDATA[DialogAddButton( ${1:whichDialog}, ${2:buttonText}, ${3:hotkey})]]></content>
+	<tabTrigger>DialogAddButton</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

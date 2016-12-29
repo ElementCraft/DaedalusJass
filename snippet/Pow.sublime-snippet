@@ -1,0 +1,6 @@
+<snippet>
+	<name>Pow</name>
+	<content><![CDATA[Pow( ${1:x}, ${2:power})]]></content>
+	<tabTrigger>Pow</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadAbilityHandle</name>
+	<content><![CDATA[LoadAbilityHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadAbilityHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

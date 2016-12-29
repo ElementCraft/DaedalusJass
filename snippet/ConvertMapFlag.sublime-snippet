@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertMapFlag</name>
+	<content><![CDATA[ConvertMapFlag( ${1:i})]]></content>
+	<tabTrigger>ConvertMapFlag</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

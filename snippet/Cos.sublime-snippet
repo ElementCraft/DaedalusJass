@@ -1,0 +1,6 @@
+<snippet>
+	<name>Cos</name>
+	<content><![CDATA[Cos( ${1:radians})]]></content>
+	<tabTrigger>Cos</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

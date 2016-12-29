@@ -1,0 +1,6 @@
+<snippet>
+	<name>SyncStoredReal</name>
+	<content><![CDATA[SyncStoredReal( ${1:cache}, ${2:missionKey}, ${3:key})]]></content>
+	<tabTrigger>SyncStoredReal</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

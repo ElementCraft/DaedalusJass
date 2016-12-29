@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetUnitRescueRange</name>
+	<content><![CDATA[SetUnitRescueRange( ${1:whichUnit}, ${2:range})]]></content>
+	<tabTrigger>SetUnitRescueRange</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

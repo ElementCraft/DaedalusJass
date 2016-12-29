@@ -1,0 +1,6 @@
+<snippet>
+	<name>OrderId</name>
+	<content><![CDATA[OrderId( ${1:orderIdString})]]></content>
+	<tabTrigger>OrderId</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

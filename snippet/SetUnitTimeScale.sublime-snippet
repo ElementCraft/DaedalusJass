@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetUnitTimeScale</name>
+	<content><![CDATA[SetUnitTimeScale( ${1:whichUnit}, ${2:timeScale})]]></content>
+	<tabTrigger>SetUnitTimeScale</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetUbersplatRender</name>
+	<content><![CDATA[SetUbersplatRender( ${1:whichSplat}, ${2:flag})]]></content>
+	<tabTrigger>SetUbersplatRender</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

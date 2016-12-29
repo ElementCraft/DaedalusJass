@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetUnitVertexColor</name>
+	<content><![CDATA[SetUnitVertexColor( ${1:whichUnit}, ${2:red}, ${3:green}, ${4:blue}, ${5:alpha})]]></content>
+	<tabTrigger>SetUnitVertexColor</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

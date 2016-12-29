@@ -1,0 +1,6 @@
+<snippet>
+	<name>WaygateIsActive</name>
+	<content><![CDATA[WaygateIsActive( ${1:waygate})]]></content>
+	<tabTrigger>WaygateIsActive</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

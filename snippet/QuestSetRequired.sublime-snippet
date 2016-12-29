@@ -1,0 +1,6 @@
+<snippet>
+	<name>QuestSetRequired</name>
+	<content><![CDATA[QuestSetRequired( ${1:whichQuest}, ${2:required})]]></content>
+	<tabTrigger>QuestSetRequired</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

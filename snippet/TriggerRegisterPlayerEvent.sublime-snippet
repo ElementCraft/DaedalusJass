@@ -1,0 +1,6 @@
+<snippet>
+	<name>TriggerRegisterPlayerEvent</name>
+	<content><![CDATA[TriggerRegisterPlayerEvent( ${1:whichTrigger}, ${2:whichPlayer}, ${3:whichPlayerEvent})]]></content>
+	<tabTrigger>TriggerRegisterPlayerEvent</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>PlaceRandomItem</name>
+	<content><![CDATA[PlaceRandomItem( ${1:whichItemPool}, ${2:x}, ${3:y})]]></content>
+	<tabTrigger>PlaceRandomItem</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

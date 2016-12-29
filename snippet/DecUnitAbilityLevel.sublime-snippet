@@ -1,0 +1,6 @@
+<snippet>
+	<name>DecUnitAbilityLevel</name>
+	<content><![CDATA[DecUnitAbilityLevel( ${1:whichUnit}, ${2:abilcode})]]></content>
+	<tabTrigger>DecUnitAbilityLevel</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

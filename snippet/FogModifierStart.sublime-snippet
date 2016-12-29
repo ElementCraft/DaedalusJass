@@ -1,0 +1,6 @@
+<snippet>
+	<name>FogModifierStart</name>
+	<content><![CDATA[FogModifierStart( ${1:whichFogModifier})]]></content>
+	<tabTrigger>FogModifierStart</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

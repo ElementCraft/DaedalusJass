@@ -1,0 +1,6 @@
+<snippet>
+	<name>Cheat</name>
+	<content><![CDATA[Cheat( ${1:cheatStr})]]></content>
+	<tabTrigger>Cheat</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetCreatureDensity</name>
+	<content><![CDATA[GetCreatureDensity()]]></content>
+	<tabTrigger>GetCreatureDensity</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

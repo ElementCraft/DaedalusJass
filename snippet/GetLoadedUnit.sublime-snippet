@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetLoadedUnit</name>
+	<content><![CDATA[GetLoadedUnit()]]></content>
+	<tabTrigger>GetLoadedUnit</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

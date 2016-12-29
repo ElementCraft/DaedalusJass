@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetCameraEyePositionX</name>
+	<content><![CDATA[GetCameraEyePositionX()]]></content>
+	<tabTrigger>GetCameraEyePositionX</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

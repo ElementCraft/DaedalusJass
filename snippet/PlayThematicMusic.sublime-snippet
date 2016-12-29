@@ -1,0 +1,6 @@
+<snippet>
+	<name>PlayThematicMusic</name>
+	<content><![CDATA[PlayThematicMusic( ${1:musicFileName})]]></content>
+	<tabTrigger>PlayThematicMusic</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

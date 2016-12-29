@@ -1,0 +1,6 @@
+<snippet>
+	<name>RemoveWeatherEffect</name>
+	<content><![CDATA[RemoveWeatherEffect( ${1:whichEffect})]]></content>
+	<tabTrigger>RemoveWeatherEffect</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

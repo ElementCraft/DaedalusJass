@@ -1,0 +1,6 @@
+<snippet>
+	<name>DialogAddQuitButton</name>
+	<content><![CDATA[DialogAddQuitButton( ${1:whichDialog}, ${2:doScoreScreen}, ${3:buttonText}, ${4:hotkey})]]></content>
+	<tabTrigger>DialogAddQuitButton</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetItemUserData</name>
+	<content><![CDATA[GetItemUserData( ${1:whichItem})]]></content>
+	<tabTrigger>GetItemUserData</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

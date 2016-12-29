@@ -1,0 +1,6 @@
+<snippet>
+	<name>ResumeTimer</name>
+	<content><![CDATA[ResumeTimer( ${1:whichTimer})]]></content>
+	<tabTrigger>ResumeTimer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

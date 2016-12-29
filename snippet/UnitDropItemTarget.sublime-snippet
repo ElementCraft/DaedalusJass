@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitDropItemTarget</name>
+	<content><![CDATA[UnitDropItemTarget( ${1:whichUnit}, ${2:whichItem}, ${3:target})]]></content>
+	<tabTrigger>UnitDropItemTarget</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

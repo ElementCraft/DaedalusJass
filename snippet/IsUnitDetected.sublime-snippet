@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsUnitDetected</name>
+	<content><![CDATA[IsUnitDetected( ${1:whichUnit}, ${2:whichPlayer})]]></content>
+	<tabTrigger>IsUnitDetected</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

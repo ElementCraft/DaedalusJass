@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadWidgetHandle</name>
+	<content><![CDATA[LoadWidgetHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadWidgetHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

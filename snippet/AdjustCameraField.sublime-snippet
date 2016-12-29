@@ -1,0 +1,6 @@
+<snippet>
+	<name>AdjustCameraField</name>
+	<content><![CDATA[AdjustCameraField( ${1:whichField}, ${2:offset}, ${3:duration})]]></content>
+	<tabTrigger>AdjustCameraField</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

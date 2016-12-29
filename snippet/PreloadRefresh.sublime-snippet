@@ -1,0 +1,6 @@
+<snippet>
+	<name>PreloadRefresh</name>
+	<content><![CDATA[PreloadRefresh()]]></content>
+	<tabTrigger>PreloadRefresh</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

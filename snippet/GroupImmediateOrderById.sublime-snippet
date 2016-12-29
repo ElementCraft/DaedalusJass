@@ -1,0 +1,6 @@
+<snippet>
+	<name>GroupImmediateOrderById</name>
+	<content><![CDATA[GroupImmediateOrderById( ${1:whichGroup}, ${2:order})]]></content>
+	<tabTrigger>GroupImmediateOrderById</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

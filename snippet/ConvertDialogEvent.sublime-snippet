@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertDialogEvent</name>
+	<content><![CDATA[ConvertDialogEvent( ${1:i})]]></content>
+	<tabTrigger>ConvertDialogEvent</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

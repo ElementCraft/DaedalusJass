@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertAIDifficulty</name>
+	<content><![CDATA[ConvertAIDifficulty( ${1:i})]]></content>
+	<tabTrigger>ConvertAIDifficulty</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

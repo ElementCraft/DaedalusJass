@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetSoundParamsFromLabel</name>
+	<content><![CDATA[SetSoundParamsFromLabel( ${1:soundHandle}, ${2:soundLabel})]]></content>
+	<tabTrigger>SetSoundParamsFromLabel</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

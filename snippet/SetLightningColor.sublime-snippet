@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetLightningColor</name>
+	<content><![CDATA[SetLightningColor( ${1:whichBolt}, ${2:r}, ${3:g}, ${4:b}, ${5:a})]]></content>
+	<tabTrigger>SetLightningColor</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

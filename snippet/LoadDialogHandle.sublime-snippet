@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadDialogHandle</name>
+	<content><![CDATA[LoadDialogHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadDialogHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

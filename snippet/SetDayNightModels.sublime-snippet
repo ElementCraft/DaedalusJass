@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetDayNightModels</name>
+	<content><![CDATA[SetDayNightModels( ${1:terrainDNCFile}, ${2:unitDNCFile})]]></content>
+	<tabTrigger>SetDayNightModels</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetUnitPathing</name>
+	<content><![CDATA[SetUnitPathing( ${1:whichUnit}, ${2:flag})]]></content>
+	<tabTrigger>SetUnitPathing</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>TimerDialogSetSpeed</name>
+	<content><![CDATA[TimerDialogSetSpeed( ${1:whichDialog}, ${2:speedMultFactor})]]></content>
+	<tabTrigger>TimerDialogSetSpeed</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

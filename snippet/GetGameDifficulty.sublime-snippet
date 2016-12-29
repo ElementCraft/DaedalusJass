@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetGameDifficulty</name>
+	<content><![CDATA[GetGameDifficulty()]]></content>
+	<tabTrigger>GetGameDifficulty</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

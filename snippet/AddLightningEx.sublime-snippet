@@ -1,0 +1,6 @@
+<snippet>
+	<name>AddLightningEx</name>
+	<content><![CDATA[AddLightningEx( ${1:codeName}, ${2:checkVisibility}, ${3:x1}, ${4:y1}, ${5:z1}, ${6:x2}, ${7:y2}, ${8:z2})]]></content>
+	<tabTrigger>AddLightningEx</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

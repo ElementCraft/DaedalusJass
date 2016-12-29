@@ -1,0 +1,6 @@
+<snippet>
+	<name>GroupEnumUnitsInRange</name>
+	<content><![CDATA[GroupEnumUnitsInRange( ${1:whichGroup}, ${2:x}, ${3:y}, ${4:radius}, ${5:filter})]]></content>
+	<tabTrigger>GroupEnumUnitsInRange</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>ResetUnitLookAt</name>
+	<content><![CDATA[ResetUnitLookAt( ${1:whichUnit})]]></content>
+	<tabTrigger>ResetUnitLookAt</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsUnitInForce</name>
+	<content><![CDATA[IsUnitInForce( ${1:whichUnit}, ${2:whichForce})]]></content>
+	<tabTrigger>IsUnitInForce</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

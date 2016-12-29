@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetItemPawnable</name>
+	<content><![CDATA[SetItemPawnable( ${1:i}, ${2:flag})]]></content>
+	<tabTrigger>SetItemPawnable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

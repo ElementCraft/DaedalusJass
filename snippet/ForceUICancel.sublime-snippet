@@ -1,0 +1,6 @@
+<snippet>
+	<name>ForceUICancel</name>
+	<content><![CDATA[ForceUICancel()]]></content>
+	<tabTrigger>ForceUICancel</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

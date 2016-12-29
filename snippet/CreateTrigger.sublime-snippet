@@ -1,0 +1,6 @@
+<snippet>
+	<name>CreateTrigger</name>
+	<content><![CDATA[CreateTrigger()]]></content>
+	<tabTrigger>CreateTrigger</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetCreepCampFilterState</name>
+	<content><![CDATA[SetCreepCampFilterState( ${1:state})]]></content>
+	<tabTrigger>SetCreepCampFilterState</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

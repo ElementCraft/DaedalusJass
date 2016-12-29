@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetBlightPoint</name>
+	<content><![CDATA[SetBlightPoint( ${1:whichPlayer}, ${2:x}, ${3:y}, ${4:addBlight})]]></content>
+	<tabTrigger>SetBlightPoint</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

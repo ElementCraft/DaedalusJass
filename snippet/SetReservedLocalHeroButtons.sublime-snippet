@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetReservedLocalHeroButtons</name>
+	<content><![CDATA[SetReservedLocalHeroButtons( ${1:reserved})]]></content>
+	<tabTrigger>SetReservedLocalHeroButtons</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

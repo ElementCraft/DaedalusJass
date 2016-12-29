@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetTriggerEventId</name>
+	<content><![CDATA[GetTriggerEventId()]]></content>
+	<tabTrigger>GetTriggerEventId</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

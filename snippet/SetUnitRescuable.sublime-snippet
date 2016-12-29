@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetUnitRescuable</name>
+	<content><![CDATA[SetUnitRescuable( ${1:whichUnit}, ${2:byWhichPlayer}, ${3:flag})]]></content>
+	<tabTrigger>SetUnitRescuable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

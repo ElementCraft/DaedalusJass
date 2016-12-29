@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetItemDroppable</name>
+	<content><![CDATA[SetItemDroppable( ${1:i}, ${2:flag})]]></content>
+	<tabTrigger>SetItemDroppable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

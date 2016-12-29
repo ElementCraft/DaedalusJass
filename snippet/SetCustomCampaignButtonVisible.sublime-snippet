@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetCustomCampaignButtonVisible</name>
+	<content><![CDATA[SetCustomCampaignButtonVisible( ${1:whichButton}, ${2:visible})]]></content>
+	<tabTrigger>SetCustomCampaignButtonVisible</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetMapFlag</name>
+	<content><![CDATA[SetMapFlag( ${1:whichMapFlag}, ${2:value})]]></content>
+	<tabTrigger>SetMapFlag</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

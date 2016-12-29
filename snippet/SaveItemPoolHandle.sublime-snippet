@@ -1,0 +1,6 @@
+<snippet>
+	<name>SaveItemPoolHandle</name>
+	<content><![CDATA[SaveItemPoolHandle( ${1:table}, ${2:parentKey}, ${3:childKey}, ${4:whichItempool})]]></content>
+	<tabTrigger>SaveItemPoolHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

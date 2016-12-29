@@ -1,0 +1,6 @@
+<snippet>
+	<name>TimerDialogSetTitleColor</name>
+	<content><![CDATA[TimerDialogSetTitleColor( ${1:whichDialog}, ${2:red}, ${3:green}, ${4:blue}, ${5:alpha})]]></content>
+	<tabTrigger>TimerDialogSetTitleColor</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

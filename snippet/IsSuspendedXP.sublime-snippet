@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsSuspendedXP</name>
+	<content><![CDATA[IsSuspendedXP( ${1:whichHero})]]></content>
+	<tabTrigger>IsSuspendedXP</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

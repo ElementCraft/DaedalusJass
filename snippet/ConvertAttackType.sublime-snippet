@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertAttackType</name>
+	<content><![CDATA[ConvertAttackType( ${1:i})]]></content>
+	<tabTrigger>ConvertAttackType</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

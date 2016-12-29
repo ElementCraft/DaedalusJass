@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsQuestEnabled</name>
+	<content><![CDATA[IsQuestEnabled( ${1:whichQuest})]]></content>
+	<tabTrigger>IsQuestEnabled</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

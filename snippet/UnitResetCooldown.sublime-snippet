@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitResetCooldown</name>
+	<content><![CDATA[UnitResetCooldown( ${1:whichUnit})]]></content>
+	<tabTrigger>UnitResetCooldown</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

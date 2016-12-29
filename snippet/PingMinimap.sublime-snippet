@@ -1,0 +1,6 @@
+<snippet>
+	<name>PingMinimap</name>
+	<content><![CDATA[PingMinimap( ${1:x}, ${2:y}, ${3:duration})]]></content>
+	<tabTrigger>PingMinimap</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

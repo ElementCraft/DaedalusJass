@@ -1,0 +1,6 @@
+<snippet>
+	<name>Atan</name>
+	<content><![CDATA[Atan( ${1:x})]]></content>
+	<tabTrigger>Atan</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

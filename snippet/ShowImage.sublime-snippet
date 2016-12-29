@@ -1,0 +1,6 @@
+<snippet>
+	<name>ShowImage</name>
+	<content><![CDATA[ShowImage( ${1:whichImage}, ${2:flag})]]></content>
+	<tabTrigger>ShowImage</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetDoodadAnimationRect</name>
+	<content><![CDATA[SetDoodadAnimationRect( ${1:r}, ${2:doodadID}, ${3:animName}, ${4:animRandom})]]></content>
+	<tabTrigger>SetDoodadAnimationRect</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

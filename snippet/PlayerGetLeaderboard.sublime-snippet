@@ -1,0 +1,6 @@
+<snippet>
+	<name>PlayerGetLeaderboard</name>
+	<content><![CDATA[PlayerGetLeaderboard( ${1:toPlayer})]]></content>
+	<tabTrigger>PlayerGetLeaderboard</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsUnitEnemy</name>
+	<content><![CDATA[IsUnitEnemy( ${1:whichUnit}, ${2:whichPlayer})]]></content>
+	<tabTrigger>IsUnitEnemy</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

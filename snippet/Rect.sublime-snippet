@@ -1,0 +1,6 @@
+<snippet>
+	<name>Rect</name>
+	<content><![CDATA[Rect( ${1:minx}, ${2:miny}, ${3:maxx}, ${4:maxy})]]></content>
+	<tabTrigger>Rect</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

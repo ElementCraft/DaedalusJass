@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetUnitRallyDestructable</name>
+	<content><![CDATA[GetUnitRallyDestructable( ${1:whichUnit})]]></content>
+	<tabTrigger>GetUnitRallyDestructable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

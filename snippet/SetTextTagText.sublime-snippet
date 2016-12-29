@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetTextTagText</name>
+	<content><![CDATA[SetTextTagText( ${1:t}, ${2:s}, ${3:height})]]></content>
+	<tabTrigger>SetTextTagText</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

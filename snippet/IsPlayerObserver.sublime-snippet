@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsPlayerObserver</name>
+	<content><![CDATA[IsPlayerObserver( ${1:whichPlayer})]]></content>
+	<tabTrigger>IsPlayerObserver</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

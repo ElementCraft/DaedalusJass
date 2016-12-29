@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitIgnoreAlarm</name>
+	<content><![CDATA[UnitIgnoreAlarm( ${1:whichUnit}, ${2:flag})]]></content>
+	<tabTrigger>UnitIgnoreAlarm</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>RegisterStackedSound</name>
+	<content><![CDATA[RegisterStackedSound( ${1:soundHandle}, ${2:byPosition}, ${3:rectwidth}, ${4:rectheight})]]></content>
+	<tabTrigger>RegisterStackedSound</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>CreateGroup</name>
+	<content><![CDATA[CreateGroup()]]></content>
+	<tabTrigger>CreateGroup</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

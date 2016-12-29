@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetHeroProperName</name>
+	<content><![CDATA[GetHeroProperName( ${1:whichHero})]]></content>
+	<tabTrigger>GetHeroProperName</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

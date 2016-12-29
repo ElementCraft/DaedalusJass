@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsMultiboardMinimized</name>
+	<content><![CDATA[IsMultiboardMinimized( ${1:lb})]]></content>
+	<tabTrigger>IsMultiboardMinimized</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

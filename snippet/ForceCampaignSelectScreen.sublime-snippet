@@ -1,0 +1,6 @@
+<snippet>
+	<name>ForceCampaignSelectScreen</name>
+	<content><![CDATA[ForceCampaignSelectScreen()]]></content>
+	<tabTrigger>ForceCampaignSelectScreen</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

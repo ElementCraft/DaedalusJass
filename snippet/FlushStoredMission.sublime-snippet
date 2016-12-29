@@ -1,0 +1,6 @@
+<snippet>
+	<name>FlushStoredMission</name>
+	<content><![CDATA[FlushStoredMission( ${1:cache}, ${2:missionKey})]]></content>
+	<tabTrigger>FlushStoredMission</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

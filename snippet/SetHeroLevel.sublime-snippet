@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetHeroLevel</name>
+	<content><![CDATA[SetHeroLevel( ${1:whichHero}, ${2:level}, ${3:showEyeCandy})]]></content>
+	<tabTrigger>SetHeroLevel</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

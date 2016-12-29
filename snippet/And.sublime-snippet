@@ -1,0 +1,6 @@
+<snippet>
+	<name>And</name>
+	<content><![CDATA[And( ${1:operandA}, ${2:operandB})]]></content>
+	<tabTrigger>And</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

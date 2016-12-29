@@ -1,0 +1,10 @@
+<snippet>
+	<name>Library</name>
+    <content><![CDATA[library ${1:libname}
+
+	$0
+
+endlibrary]]></content>
+    <tabTrigger>library</tabTrigger>
+    <scope>source.j, source.jass</scope>
+</snippet>

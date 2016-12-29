@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetLevelingUnit</name>
+	<content><![CDATA[GetLevelingUnit()]]></content>
+	<tabTrigger>GetLevelingUnit</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

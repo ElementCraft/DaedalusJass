@@ -1,0 +1,6 @@
+<snippet>
+	<name>DialogSetMessage</name>
+	<content><![CDATA[DialogSetMessage( ${1:whichDialog}, ${2:messageText})]]></content>
+	<tabTrigger>DialogSetMessage</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

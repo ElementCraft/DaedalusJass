@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertPathingType</name>
+	<content><![CDATA[ConvertPathingType( ${1:i})]]></content>
+	<tabTrigger>ConvertPathingType</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

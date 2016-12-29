@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertAllianceType</name>
+	<content><![CDATA[ConvertAllianceType( ${1:i})]]></content>
+	<tabTrigger>ConvertAllianceType</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

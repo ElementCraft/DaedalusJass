@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsLocationFoggedToPlayer</name>
+	<content><![CDATA[IsLocationFoggedToPlayer( ${1:whichLocation}, ${2:whichPlayer})]]></content>
+	<tabTrigger>IsLocationFoggedToPlayer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

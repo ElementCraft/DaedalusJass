@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertLimitOp</name>
+	<content><![CDATA[ConvertLimitOp( ${1:i})]]></content>
+	<tabTrigger>ConvertLimitOp</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

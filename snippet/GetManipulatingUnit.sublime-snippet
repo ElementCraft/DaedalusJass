@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetManipulatingUnit</name>
+	<content><![CDATA[GetManipulatingUnit()]]></content>
+	<tabTrigger>GetManipulatingUnit</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

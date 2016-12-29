@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetCineFilterTexture</name>
+	<content><![CDATA[SetCineFilterTexture( ${1:filename})]]></content>
+	<tabTrigger>SetCineFilterTexture</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

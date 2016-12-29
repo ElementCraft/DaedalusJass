@@ -1,0 +1,6 @@
+<snippet>
+	<name>RestartGame</name>
+	<content><![CDATA[RestartGame( ${1:doScoreScreen})]]></content>
+	<tabTrigger>RestartGame</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

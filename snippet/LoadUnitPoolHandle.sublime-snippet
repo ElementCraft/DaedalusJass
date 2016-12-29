@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadUnitPoolHandle</name>
+	<content><![CDATA[LoadUnitPoolHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadUnitPoolHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

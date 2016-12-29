@@ -1,0 +1,6 @@
+<snippet>
+	<name>DestroyLeaderboard</name>
+	<content><![CDATA[DestroyLeaderboard( ${1:lb})]]></content>
+	<tabTrigger>DestroyLeaderboard</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

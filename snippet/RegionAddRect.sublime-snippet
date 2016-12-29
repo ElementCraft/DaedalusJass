@@ -1,0 +1,6 @@
+<snippet>
+	<name>RegionAddRect</name>
+	<content><![CDATA[RegionAddRect( ${1:whichRegion}, ${2:r})]]></content>
+	<tabTrigger>RegionAddRect</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

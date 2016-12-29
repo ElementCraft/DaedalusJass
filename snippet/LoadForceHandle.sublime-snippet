@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadForceHandle</name>
+	<content><![CDATA[LoadForceHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadForceHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetRectMaxX</name>
+	<content><![CDATA[GetRectMaxX( ${1:whichRect})]]></content>
+	<tabTrigger>GetRectMaxX</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

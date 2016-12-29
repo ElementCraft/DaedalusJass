@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetUnitAnimationWithRarity</name>
+	<content><![CDATA[SetUnitAnimationWithRarity( ${1:whichUnit}, ${2:whichAnimation}, ${3:rarity})]]></content>
+	<tabTrigger>SetUnitAnimationWithRarity</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

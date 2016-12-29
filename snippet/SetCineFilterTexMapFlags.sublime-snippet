@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetCineFilterTexMapFlags</name>
+	<content><![CDATA[SetCineFilterTexMapFlags( ${1:whichFlags})]]></content>
+	<tabTrigger>SetCineFilterTexMapFlags</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

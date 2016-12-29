@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetCineFilterEndColor</name>
+	<content><![CDATA[SetCineFilterEndColor( ${1:red}, ${2:green}, ${3:blue}, ${4:alpha})]]></content>
+	<tabTrigger>SetCineFilterEndColor</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

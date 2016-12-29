@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadRegionHandle</name>
+	<content><![CDATA[LoadRegionHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadRegionHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

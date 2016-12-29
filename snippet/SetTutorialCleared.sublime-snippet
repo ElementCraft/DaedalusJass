@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetTutorialCleared</name>
+	<content><![CDATA[SetTutorialCleared( ${1:cleared})]]></content>
+	<tabTrigger>SetTutorialCleared</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<name>If Condition</name>
+    <content><![CDATA[if ${1:condition} then
+	$0
+endif]]></content>
+    <tabTrigger>if</tabTrigger>
+    <scope>source.j, source.jass</scope>
+</snippet>

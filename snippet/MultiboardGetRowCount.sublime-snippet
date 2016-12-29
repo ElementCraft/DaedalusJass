@@ -1,0 +1,6 @@
+<snippet>
+	<name>MultiboardGetRowCount</name>
+	<content><![CDATA[MultiboardGetRowCount( ${1:lb})]]></content>
+	<tabTrigger>MultiboardGetRowCount</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

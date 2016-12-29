@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadItemPoolHandle</name>
+	<content><![CDATA[LoadItemPoolHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadItemPoolHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

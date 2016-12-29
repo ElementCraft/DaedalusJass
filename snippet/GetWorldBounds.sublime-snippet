@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetWorldBounds</name>
+	<content><![CDATA[GetWorldBounds()]]></content>
+	<tabTrigger>GetWorldBounds</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

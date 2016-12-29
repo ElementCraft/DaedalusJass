@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetPlayerColor</name>
+	<content><![CDATA[SetPlayerColor( ${1:whichPlayer}, ${2:color})]]></content>
+	<tabTrigger>SetPlayerColor</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

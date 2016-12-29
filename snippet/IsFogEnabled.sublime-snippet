@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsFogEnabled</name>
+	<content><![CDATA[IsFogEnabled()]]></content>
+	<tabTrigger>IsFogEnabled</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

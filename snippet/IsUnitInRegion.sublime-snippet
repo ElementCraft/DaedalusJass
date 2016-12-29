@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsUnitInRegion</name>
+	<content><![CDATA[IsUnitInRegion( ${1:whichRegion}, ${2:whichUnit})]]></content>
+	<tabTrigger>IsUnitInRegion</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetResourceDensity</name>
+	<content><![CDATA[GetResourceDensity()]]></content>
+	<tabTrigger>GetResourceDensity</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

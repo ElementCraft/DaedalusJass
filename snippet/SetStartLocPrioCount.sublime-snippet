@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetStartLocPrioCount</name>
+	<content><![CDATA[SetStartLocPrioCount( ${1:whichStartLoc}, ${2:prioSlotCount})]]></content>
+	<tabTrigger>SetStartLocPrioCount</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

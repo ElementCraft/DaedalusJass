@@ -1,0 +1,6 @@
+<snippet>
+	<name>PauseGame</name>
+	<content><![CDATA[PauseGame( ${1:flag})]]></content>
+	<tabTrigger>PauseGame</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

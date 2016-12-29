@@ -1,0 +1,6 @@
+<snippet>
+	<name>TriggerRegisterTimerEvent</name>
+	<content><![CDATA[TriggerRegisterTimerEvent( ${1:whichTrigger}, ${2:timeout}, ${3:periodic})]]></content>
+	<tabTrigger>TriggerRegisterTimerEvent</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

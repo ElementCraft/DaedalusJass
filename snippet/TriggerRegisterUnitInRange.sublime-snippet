@@ -1,0 +1,6 @@
+<snippet>
+	<name>TriggerRegisterUnitInRange</name>
+	<content><![CDATA[TriggerRegisterUnitInRange( ${1:whichTrigger}, ${2:whichUnit}, ${3:range}, ${4:filter})]]></content>
+	<tabTrigger>TriggerRegisterUnitInRange</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

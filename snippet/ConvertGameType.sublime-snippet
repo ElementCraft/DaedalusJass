@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertGameType</name>
+	<content><![CDATA[ConvertGameType( ${1:i})]]></content>
+	<tabTrigger>ConvertGameType</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>ForceEnumPlayers</name>
+	<content><![CDATA[ForceEnumPlayers( ${1:whichForce}, ${2:filter})]]></content>
+	<tabTrigger>ForceEnumPlayers</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

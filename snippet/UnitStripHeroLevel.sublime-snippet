@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitStripHeroLevel</name>
+	<content><![CDATA[UnitStripHeroLevel( ${1:whichHero}, ${2:howManyLevels})]]></content>
+	<tabTrigger>UnitStripHeroLevel</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

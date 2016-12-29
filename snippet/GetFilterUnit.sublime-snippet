@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetFilterUnit</name>
+	<content><![CDATA[GetFilterUnit()]]></content>
+	<tabTrigger>GetFilterUnit</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

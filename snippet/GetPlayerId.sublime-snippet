@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetPlayerId</name>
+	<content><![CDATA[GetPlayerId( ${1:whichPlayer})]]></content>
+	<tabTrigger>GetPlayerId</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>CommandAI</name>
+	<content><![CDATA[CommandAI( ${1:num}, ${2:command}, ${3:data})]]></content>
+	<tabTrigger>CommandAI</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

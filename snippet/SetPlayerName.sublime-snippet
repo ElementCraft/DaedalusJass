@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetPlayerName</name>
+	<content><![CDATA[SetPlayerName( ${1:whichPlayer}, ${2:name})]]></content>
+	<tabTrigger>SetPlayerName</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

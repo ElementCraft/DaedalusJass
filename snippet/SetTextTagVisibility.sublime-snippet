@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetTextTagVisibility</name>
+	<content><![CDATA[SetTextTagVisibility( ${1:t}, ${2:flag})]]></content>
+	<tabTrigger>SetTextTagVisibility</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

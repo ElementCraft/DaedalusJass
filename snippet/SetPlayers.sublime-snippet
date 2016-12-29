@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetPlayers</name>
+	<content><![CDATA[SetPlayers( ${1:playercount})]]></content>
+	<tabTrigger>SetPlayers</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

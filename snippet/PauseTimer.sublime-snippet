@@ -1,0 +1,6 @@
+<snippet>
+	<name>PauseTimer</name>
+	<content><![CDATA[PauseTimer( ${1:whichTimer})]]></content>
+	<tabTrigger>PauseTimer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

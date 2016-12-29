@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitAddSleep</name>
+	<content><![CDATA[UnitAddSleep( ${1:whichUnit}, ${2:add})]]></content>
+	<tabTrigger>UnitAddSleep</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

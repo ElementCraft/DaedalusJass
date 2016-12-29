@@ -1,0 +1,6 @@
+<snippet>
+	<name>SyncStoredBoolean</name>
+	<content><![CDATA[SyncStoredBoolean( ${1:cache}, ${2:missionKey}, ${3:key})]]></content>
+	<tabTrigger>SyncStoredBoolean</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>GroupPointOrderByIdLoc</name>
+	<content><![CDATA[GroupPointOrderByIdLoc( ${1:whichGroup}, ${2:order}, ${3:whichLocation})]]></content>
+	<tabTrigger>GroupPointOrderByIdLoc</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

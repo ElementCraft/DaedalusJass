@@ -1,0 +1,6 @@
+<snippet>
+	<name>PanCameraToWithZ</name>
+	<content><![CDATA[PanCameraToWithZ( ${1:x}, ${2:y}, ${3:zOffsetDest})]]></content>
+	<tabTrigger>PanCameraToWithZ</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

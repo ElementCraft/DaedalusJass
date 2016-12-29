@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetCinematicScene</name>
+	<content><![CDATA[SetCinematicScene( ${1:portraitUnitId}, ${2:color}, ${3:speakerTitle}, ${4:text}, ${5:sceneDuration}, ${6:voiceoverDuration})]]></content>
+	<tabTrigger>SetCinematicScene</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

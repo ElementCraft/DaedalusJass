@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitPauseTimedLife</name>
+	<content><![CDATA[UnitPauseTimedLife( ${1:whichUnit}, ${2:flag})]]></content>
+	<tabTrigger>UnitPauseTimedLife</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

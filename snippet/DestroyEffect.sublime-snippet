@@ -1,0 +1,6 @@
+<snippet>
+	<name>DestroyEffect</name>
+	<content><![CDATA[DestroyEffect( ${1:whichEffect})]]></content>
+	<tabTrigger>DestroyEffect</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

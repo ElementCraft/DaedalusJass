@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsPlayerInForce</name>
+	<content><![CDATA[IsPlayerInForce( ${1:whichPlayer}, ${2:whichForce})]]></content>
+	<tabTrigger>IsPlayerInForce</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

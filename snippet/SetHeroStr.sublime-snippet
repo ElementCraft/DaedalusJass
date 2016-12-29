@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetHeroStr</name>
+	<content><![CDATA[SetHeroStr( ${1:whichHero}, ${2:newStr}, ${3:permanent})]]></content>
+	<tabTrigger>SetHeroStr</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

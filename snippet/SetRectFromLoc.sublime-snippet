@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetRectFromLoc</name>
+	<content><![CDATA[SetRectFromLoc( ${1:whichRect}, ${2:min}, ${3:max})]]></content>
+	<tabTrigger>SetRectFromLoc</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

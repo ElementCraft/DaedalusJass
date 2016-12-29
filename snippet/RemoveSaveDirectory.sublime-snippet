@@ -1,0 +1,6 @@
+<snippet>
+	<name>RemoveSaveDirectory</name>
+	<content><![CDATA[RemoveSaveDirectory( ${1:sourceDirName})]]></content>
+	<tabTrigger>RemoveSaveDirectory</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

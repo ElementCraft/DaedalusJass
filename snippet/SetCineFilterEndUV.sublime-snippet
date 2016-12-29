@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetCineFilterEndUV</name>
+	<content><![CDATA[SetCineFilterEndUV( ${1:minu}, ${2:minv}, ${3:maxu}, ${4:maxv})]]></content>
+	<tabTrigger>SetCineFilterEndUV</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

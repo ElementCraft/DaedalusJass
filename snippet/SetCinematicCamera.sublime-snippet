@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetCinematicCamera</name>
+	<content><![CDATA[SetCinematicCamera( ${1:cameraModelFile})]]></content>
+	<tabTrigger>SetCinematicCamera</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

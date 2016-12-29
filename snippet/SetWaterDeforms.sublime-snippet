@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetWaterDeforms</name>
+	<content><![CDATA[SetWaterDeforms( ${1:val})]]></content>
+	<tabTrigger>SetWaterDeforms</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

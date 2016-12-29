@@ -1,0 +1,6 @@
+<snippet>
+	<name>IsUnitLoaded</name>
+	<content><![CDATA[IsUnitLoaded( ${1:whichUnit})]]></content>
+	<tabTrigger>IsUnitLoaded</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

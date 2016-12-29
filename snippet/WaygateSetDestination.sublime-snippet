@@ -1,0 +1,6 @@
+<snippet>
+	<name>WaygateSetDestination</name>
+	<content><![CDATA[WaygateSetDestination( ${1:waygate}, ${2:x}, ${3:y})]]></content>
+	<tabTrigger>WaygateSetDestination</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

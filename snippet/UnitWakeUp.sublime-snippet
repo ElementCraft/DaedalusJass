@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitWakeUp</name>
+	<content><![CDATA[UnitWakeUp( ${1:whichUnit})]]></content>
+	<tabTrigger>UnitWakeUp</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

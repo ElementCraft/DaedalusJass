@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetItemDropOnDeath</name>
+	<content><![CDATA[SetItemDropOnDeath( ${1:whichItem}, ${2:flag})]]></content>
+	<tabTrigger>SetItemDropOnDeath</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

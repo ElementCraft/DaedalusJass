@@ -1,0 +1,6 @@
+<snippet>
+	<name>CachePlayerHeroData</name>
+	<content><![CDATA[CachePlayerHeroData( ${1:whichPlayer})]]></content>
+	<tabTrigger>CachePlayerHeroData</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

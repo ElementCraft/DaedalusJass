@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetTextTagAge</name>
+	<content><![CDATA[SetTextTagAge( ${1:t}, ${2:age})]]></content>
+	<tabTrigger>SetTextTagAge</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

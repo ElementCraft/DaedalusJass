@@ -1,0 +1,6 @@
+<snippet>
+	<name>ForcePlayerStartLocation</name>
+	<content><![CDATA[ForcePlayerStartLocation( ${1:whichPlayer}, ${2:startLocIndex})]]></content>
+	<tabTrigger>ForcePlayerStartLocation</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

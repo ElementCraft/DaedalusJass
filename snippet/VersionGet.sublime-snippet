@@ -1,0 +1,6 @@
+<snippet>
+	<name>VersionGet</name>
+	<content><![CDATA[VersionGet()]]></content>
+	<tabTrigger>VersionGet</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

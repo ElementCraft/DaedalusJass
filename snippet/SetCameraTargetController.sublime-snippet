@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetCameraTargetController</name>
+	<content><![CDATA[SetCameraTargetController( ${1:whichUnit}, ${2:xoffset}, ${3:yoffset}, ${4:inheritOrientation})]]></content>
+	<tabTrigger>SetCameraTargetController</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

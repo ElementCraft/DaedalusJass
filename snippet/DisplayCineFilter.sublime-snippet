@@ -1,0 +1,6 @@
+<snippet>
+	<name>DisplayCineFilter</name>
+	<content><![CDATA[DisplayCineFilter( ${1:flag})]]></content>
+	<tabTrigger>DisplayCineFilter</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

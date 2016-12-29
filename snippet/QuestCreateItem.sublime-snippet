@@ -1,0 +1,6 @@
+<snippet>
+	<name>QuestCreateItem</name>
+	<content><![CDATA[QuestCreateItem( ${1:whichQuest})]]></content>
+	<tabTrigger>QuestCreateItem</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

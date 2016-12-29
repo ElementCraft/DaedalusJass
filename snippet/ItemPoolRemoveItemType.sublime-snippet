@@ -1,0 +1,6 @@
+<snippet>
+	<name>ItemPoolRemoveItemType</name>
+	<content><![CDATA[ItemPoolRemoveItemType( ${1:whichItemPool}, ${2:itemId})]]></content>
+	<tabTrigger>ItemPoolRemoveItemType</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

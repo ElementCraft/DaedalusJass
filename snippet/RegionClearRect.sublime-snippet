@@ -1,0 +1,6 @@
+<snippet>
+	<name>RegionClearRect</name>
+	<content><![CDATA[RegionClearRect( ${1:whichRegion}, ${2:r})]]></content>
+	<tabTrigger>RegionClearRect</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

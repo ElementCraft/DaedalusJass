@@ -1,0 +1,6 @@
+<snippet>
+	<name>RemoveUnitFromAllStock</name>
+	<content><![CDATA[RemoveUnitFromAllStock( ${1:unitId})]]></content>
+	<tabTrigger>RemoveUnitFromAllStock</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

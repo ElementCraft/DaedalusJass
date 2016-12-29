@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitPoolAddUnitType</name>
+	<content><![CDATA[UnitPoolAddUnitType( ${1:whichPool}, ${2:unitId}, ${3:weight})]]></content>
+	<tabTrigger>UnitPoolAddUnitType</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

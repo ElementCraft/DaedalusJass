@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetDefaultDifficulty</name>
+	<content><![CDATA[GetDefaultDifficulty()]]></content>
+	<tabTrigger>GetDefaultDifficulty</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

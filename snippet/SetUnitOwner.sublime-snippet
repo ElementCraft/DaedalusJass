@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetUnitOwner</name>
+	<content><![CDATA[SetUnitOwner( ${1:whichUnit}, ${2:whichPlayer}, ${3:changeColor})]]></content>
+	<tabTrigger>SetUnitOwner</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

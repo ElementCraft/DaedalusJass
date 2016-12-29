@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetTextTagFadepoint</name>
+	<content><![CDATA[SetTextTagFadepoint( ${1:t}, ${2:fadepoint})]]></content>
+	<tabTrigger>SetTextTagFadepoint</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

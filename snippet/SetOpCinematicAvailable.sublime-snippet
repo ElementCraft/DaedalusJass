@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetOpCinematicAvailable</name>
+	<content><![CDATA[SetOpCinematicAvailable( ${1:campaignNumber}, ${2:available})]]></content>
+	<tabTrigger>SetOpCinematicAvailable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

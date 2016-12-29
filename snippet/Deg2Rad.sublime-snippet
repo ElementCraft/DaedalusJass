@@ -1,0 +1,6 @@
+<snippet>
+	<name>Deg2Rad</name>
+	<content><![CDATA[Deg2Rad( ${1:degrees})]]></content>
+	<tabTrigger>Deg2Rad</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

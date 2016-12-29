@@ -1,0 +1,6 @@
+<snippet>
+	<name>DisableTrigger</name>
+	<content><![CDATA[DisableTrigger( ${1:whichTrigger})]]></content>
+	<tabTrigger>DisableTrigger</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

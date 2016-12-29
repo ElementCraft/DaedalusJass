@@ -1,0 +1,6 @@
+<snippet>
+	<name>AddHeroXP</name>
+	<content><![CDATA[AddHeroXP( ${1:whichHero}, ${2:xpToAdd}, ${3:showEyeCandy})]]></content>
+	<tabTrigger>AddHeroXP</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

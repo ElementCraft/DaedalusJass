@@ -1,0 +1,6 @@
+<snippet>
+	<name>I2S</name>
+	<content><![CDATA[I2S( ${1:i})]]></content>
+	<tabTrigger>I2S</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

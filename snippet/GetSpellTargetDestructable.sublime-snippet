@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetSpellTargetDestructable</name>
+	<content><![CDATA[GetSpellTargetDestructable()]]></content>
+	<tabTrigger>GetSpellTargetDestructable</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

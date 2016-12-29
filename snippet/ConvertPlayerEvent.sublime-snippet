@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertPlayerEvent</name>
+	<content><![CDATA[ConvertPlayerEvent( ${1:i})]]></content>
+	<tabTrigger>ConvertPlayerEvent</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

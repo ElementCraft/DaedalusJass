@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetUnitAnimationByIndex</name>
+	<content><![CDATA[SetUnitAnimationByIndex( ${1:whichUnit}, ${2:whichAnimation})]]></content>
+	<tabTrigger>SetUnitAnimationByIndex</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

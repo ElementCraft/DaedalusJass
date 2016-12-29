@@ -1,0 +1,6 @@
+<snippet>
+	<name>ForceCinematicSubtitles</name>
+	<content><![CDATA[ForceCinematicSubtitles( ${1:flag})]]></content>
+	<tabTrigger>ForceCinematicSubtitles</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

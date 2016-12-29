@@ -1,0 +1,6 @@
+<snippet>
+	<name>LeaderboardGetLabelText</name>
+	<content><![CDATA[LeaderboardGetLabelText( ${1:lb})]]></content>
+	<tabTrigger>LeaderboardGetLabelText</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

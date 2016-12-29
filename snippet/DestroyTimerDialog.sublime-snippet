@@ -1,0 +1,6 @@
+<snippet>
+	<name>DestroyTimerDialog</name>
+	<content><![CDATA[DestroyTimerDialog( ${1:whichDialog})]]></content>
+	<tabTrigger>DestroyTimerDialog</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

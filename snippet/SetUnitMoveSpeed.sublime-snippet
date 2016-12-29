@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetUnitMoveSpeed</name>
+	<content><![CDATA[SetUnitMoveSpeed( ${1:whichUnit}, ${2:newSpeed})]]></content>
+	<tabTrigger>SetUnitMoveSpeed</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

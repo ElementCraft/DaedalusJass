@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetSoundDistanceCutoff</name>
+	<content><![CDATA[SetSoundDistanceCutoff( ${1:soundHandle}, ${2:cutoff})]]></content>
+	<tabTrigger>SetSoundDistanceCutoff</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetHeroXP</name>
+	<content><![CDATA[GetHeroXP( ${1:whichHero})]]></content>
+	<tabTrigger>GetHeroXP</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

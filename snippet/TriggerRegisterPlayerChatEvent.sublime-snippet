@@ -1,0 +1,6 @@
+<snippet>
+	<name>TriggerRegisterPlayerChatEvent</name>
+	<content><![CDATA[TriggerRegisterPlayerChatEvent( ${1:whichTrigger}, ${2:whichPlayer}, ${3:chatMessageToDetect}, ${4:exactMatchOnly})]]></content>
+	<tabTrigger>TriggerRegisterPlayerChatEvent</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

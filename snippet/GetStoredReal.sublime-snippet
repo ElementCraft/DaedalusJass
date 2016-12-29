@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetStoredReal</name>
+	<content><![CDATA[GetStoredReal( ${1:cache}, ${2:missionKey}, ${3:key})]]></content>
+	<tabTrigger>GetStoredReal</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

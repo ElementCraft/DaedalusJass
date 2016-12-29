@@ -1,0 +1,6 @@
+<snippet>
+	<name>LoadButtonHandle</name>
+	<content><![CDATA[LoadButtonHandle( ${1:table}, ${2:parentKey}, ${3:childKey})]]></content>
+	<tabTrigger>LoadButtonHandle</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

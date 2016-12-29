@@ -1,0 +1,6 @@
+<snippet>
+	<name>SuspendTimeOfDay</name>
+	<content><![CDATA[SuspendTimeOfDay( ${1:b})]]></content>
+	<tabTrigger>SuspendTimeOfDay</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

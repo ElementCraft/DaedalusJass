@@ -1,0 +1,6 @@
+<snippet>
+	<name>ConvertMapSetting</name>
+	<content><![CDATA[ConvertMapSetting( ${1:i})]]></content>
+	<tabTrigger>ConvertMapSetting</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetImageRender</name>
+	<content><![CDATA[SetImageRender( ${1:whichImage}, ${2:flag})]]></content>
+	<tabTrigger>SetImageRender</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

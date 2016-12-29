@@ -1,0 +1,6 @@
+<snippet>
+	<name>MultiboardReleaseItem</name>
+	<content><![CDATA[MultiboardReleaseItem( ${1:mbi})]]></content>
+	<tabTrigger>MultiboardReleaseItem</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

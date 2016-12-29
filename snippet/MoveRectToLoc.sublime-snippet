@@ -1,0 +1,6 @@
+<snippet>
+	<name>MoveRectToLoc</name>
+	<content><![CDATA[MoveRectToLoc( ${1:whichRect}, ${2:newCenterLoc})]]></content>
+	<tabTrigger>MoveRectToLoc</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

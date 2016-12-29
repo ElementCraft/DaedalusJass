@@ -1,0 +1,6 @@
+<snippet>
+	<name>CreateDeadDestructableZ</name>
+	<content><![CDATA[CreateDeadDestructableZ( ${1:objectid}, ${2:x}, ${3:y}, ${4:z}, ${5:face}, ${6:scale}, ${7:variation})]]></content>
+	<tabTrigger>CreateDeadDestructableZ</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

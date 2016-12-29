@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetGamePlacement</name>
+	<content><![CDATA[GetGamePlacement()]]></content>
+	<tabTrigger>GetGamePlacement</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

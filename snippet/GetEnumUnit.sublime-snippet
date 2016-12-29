@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetEnumUnit</name>
+	<content><![CDATA[GetEnumUnit()]]></content>
+	<tabTrigger>GetEnumUnit</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

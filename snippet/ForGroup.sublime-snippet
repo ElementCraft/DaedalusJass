@@ -1,0 +1,6 @@
+<snippet>
+	<name>ForGroup</name>
+	<content><![CDATA[ForGroup( ${1:whichGroup}, ${2:callback})]]></content>
+	<tabTrigger>ForGroup</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

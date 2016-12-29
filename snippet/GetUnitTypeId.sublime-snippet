@@ -1,0 +1,6 @@
+<snippet>
+	<name>GetUnitTypeId</name>
+	<content><![CDATA[GetUnitTypeId( ${1:whichUnit})]]></content>
+	<tabTrigger>GetUnitTypeId</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+	<name>RestoreUnit</name>
+	<content><![CDATA[RestoreUnit( ${1:cache}, ${2:missionKey}, ${3:key}, ${4:forWhichPlayer}, ${5:x}, ${6:y}, ${7:facing})]]></content>
+	<tabTrigger>RestoreUnit</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

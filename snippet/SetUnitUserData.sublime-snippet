@@ -1,0 +1,6 @@
+<snippet>
+	<name>SetUnitUserData</name>
+	<content><![CDATA[SetUnitUserData( ${1:whichUnit}, ${2:data})]]></content>
+	<tabTrigger>SetUnitUserData</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

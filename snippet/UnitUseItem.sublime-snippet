@@ -1,0 +1,6 @@
+<snippet>
+	<name>UnitUseItem</name>
+	<content><![CDATA[UnitUseItem( ${1:whichUnit}, ${2:whichItem})]]></content>
+	<tabTrigger>UnitUseItem</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

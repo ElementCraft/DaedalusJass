@@ -1,0 +1,6 @@
+<snippet>
+	<name>RemovePlayer</name>
+	<content><![CDATA[RemovePlayer( ${1:whichPlayer}, ${2:gameResult})]]></content>
+	<tabTrigger>RemovePlayer</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>
