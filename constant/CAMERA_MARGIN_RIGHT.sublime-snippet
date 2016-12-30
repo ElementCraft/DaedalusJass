@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[CAMERA_MARGIN_RIGHT]]></content>
+	<tabTrigger>CAMERA_MARGIN_RIGHT</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

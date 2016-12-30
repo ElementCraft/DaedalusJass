@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[GAME_TYPE_BLIZ]]></content>
+	<tabTrigger>GAME_TYPE_BLIZ</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

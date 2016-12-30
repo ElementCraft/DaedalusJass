@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[ALLIANCE_SHARED_SPELLS]]></content>
+	<tabTrigger>ALLIANCE_SHARED_SPELLS</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

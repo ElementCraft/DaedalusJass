@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[WEAPON_TYPE_WOOD_LIGHT_BASH]]></content>
+	<tabTrigger>WEAPON_TYPE_WOOD_LIGHT_BASH</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_CONTROL_NONE]]></content>
+	<tabTrigger>MAP_CONTROL_NONE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

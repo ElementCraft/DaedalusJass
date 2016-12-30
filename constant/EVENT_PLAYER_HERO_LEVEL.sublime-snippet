@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_PLAYER_HERO_LEVEL]]></content>
+	<tabTrigger>EVENT_PLAYER_HERO_LEVEL</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[AI_DIFFICULTY_NEWBIE]]></content>
+	<tabTrigger>AI_DIFFICULTY_NEWBIE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

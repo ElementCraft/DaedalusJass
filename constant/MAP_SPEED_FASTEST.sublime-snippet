@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_SPEED_FASTEST]]></content>
+	<tabTrigger>MAP_SPEED_FASTEST</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

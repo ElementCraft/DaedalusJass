@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_UNIT_TARGET_IN_RANGE]]></content>
+	<tabTrigger>EVENT_UNIT_TARGET_IN_RANGE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

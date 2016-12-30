@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_COLOR_GREEN]]></content>
+	<tabTrigger>PLAYER_COLOR_GREEN</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

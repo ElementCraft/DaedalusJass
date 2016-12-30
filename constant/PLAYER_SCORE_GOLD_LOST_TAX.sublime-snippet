@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_SCORE_GOLD_LOST_TAX]]></content>
+	<tabTrigger>PLAYER_SCORE_GOLD_LOST_TAX</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

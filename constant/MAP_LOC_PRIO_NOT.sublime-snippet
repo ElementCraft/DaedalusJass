@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_LOC_PRIO_NOT]]></content>
+	<tabTrigger>MAP_LOC_PRIO_NOT</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

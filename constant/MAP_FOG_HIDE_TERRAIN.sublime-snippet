@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_FOG_HIDE_TERRAIN]]></content>
+	<tabTrigger>MAP_FOG_HIDE_TERRAIN</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

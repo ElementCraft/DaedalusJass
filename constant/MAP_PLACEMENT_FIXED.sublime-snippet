@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_PLACEMENT_FIXED]]></content>
+	<tabTrigger>MAP_PLACEMENT_FIXED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

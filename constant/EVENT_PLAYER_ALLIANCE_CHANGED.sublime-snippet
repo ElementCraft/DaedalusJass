@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_PLAYER_ALLIANCE_CHANGED]]></content>
+	<tabTrigger>EVENT_PLAYER_ALLIANCE_CHANGED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

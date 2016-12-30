@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[RACE_NIGHTELF]]></content>
+	<tabTrigger>RACE_NIGHTELF</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

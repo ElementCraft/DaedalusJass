@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[GAME_STATE_TIME_OF_DAY]]></content>
+	<tabTrigger>GAME_STATE_TIME_OF_DAY</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

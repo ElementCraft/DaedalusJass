@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_CONTROL_COMPUTER]]></content>
+	<tabTrigger>MAP_CONTROL_COMPUTER</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

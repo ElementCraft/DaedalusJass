@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[ALLIANCE_RESCUABLE]]></content>
+	<tabTrigger>ALLIANCE_RESCUABLE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

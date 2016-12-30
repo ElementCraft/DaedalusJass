@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_PLAYER_UNIT_SPELL_EFFECT]]></content>
+	<tabTrigger>EVENT_PLAYER_UNIT_SPELL_EFFECT</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

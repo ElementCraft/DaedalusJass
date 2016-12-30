@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[BLEND_MODE_NONE]]></content>
+	<tabTrigger>BLEND_MODE_NONE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

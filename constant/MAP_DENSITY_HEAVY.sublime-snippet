@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_DENSITY_HEAVY]]></content>
+	<tabTrigger>MAP_DENSITY_HEAVY</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

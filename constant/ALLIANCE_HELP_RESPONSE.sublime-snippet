@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[ALLIANCE_HELP_RESPONSE]]></content>
+	<tabTrigger>ALLIANCE_HELP_RESPONSE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

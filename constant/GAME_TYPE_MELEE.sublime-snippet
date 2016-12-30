@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[GAME_TYPE_MELEE]]></content>
+	<tabTrigger>GAME_TYPE_MELEE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

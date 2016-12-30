@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_PLACEMENT_RANDOM]]></content>
+	<tabTrigger>MAP_PLACEMENT_RANDOM</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

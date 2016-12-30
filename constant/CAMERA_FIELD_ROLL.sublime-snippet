@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[CAMERA_FIELD_ROLL]]></content>
+	<tabTrigger>CAMERA_FIELD_ROLL</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

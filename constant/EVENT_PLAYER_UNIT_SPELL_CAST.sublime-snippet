@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_PLAYER_UNIT_SPELL_CAST]]></content>
+	<tabTrigger>EVENT_PLAYER_UNIT_SPELL_CAST</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EFFECT_TYPE_TARGET]]></content>
+	<tabTrigger>EFFECT_TYPE_TARGET</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

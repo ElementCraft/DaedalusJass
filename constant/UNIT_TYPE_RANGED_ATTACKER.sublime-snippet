@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[UNIT_TYPE_RANGED_ATTACKER]]></content>
+	<tabTrigger>UNIT_TYPE_RANGED_ATTACKER</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

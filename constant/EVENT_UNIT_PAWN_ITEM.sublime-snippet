@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_UNIT_PAWN_ITEM]]></content>
+	<tabTrigger>EVENT_UNIT_PAWN_ITEM</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

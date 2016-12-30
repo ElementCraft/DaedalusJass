@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_UNIT_HERO_REVIVABLE]]></content>
+	<tabTrigger>EVENT_UNIT_HERO_REVIVABLE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

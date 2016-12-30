@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[GAME_TYPE_FOUR_TEAM_PLAY]]></content>
+	<tabTrigger>GAME_TYPE_FOUR_TEAM_PLAY</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

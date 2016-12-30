@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PATHING_TYPE_ANY]]></content>
+	<tabTrigger>PATHING_TYPE_ANY</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

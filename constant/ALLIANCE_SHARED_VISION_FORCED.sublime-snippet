@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[ALLIANCE_SHARED_VISION_FORCED]]></content>
+	<tabTrigger>ALLIANCE_SHARED_VISION_FORCED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

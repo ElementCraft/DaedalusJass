@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_UNIT_CONSTRUCT_CANCEL]]></content>
+	<tabTrigger>EVENT_UNIT_CONSTRUCT_CANCEL</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

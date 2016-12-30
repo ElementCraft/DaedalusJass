@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[GAME_TYPE_USE_MAP_SETTINGS]]></content>
+	<tabTrigger>GAME_TYPE_USE_MAP_SETTINGS</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

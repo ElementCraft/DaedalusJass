@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[VERSION_FROZEN_THRONE]]></content>
+	<tabTrigger>VERSION_FROZEN_THRONE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

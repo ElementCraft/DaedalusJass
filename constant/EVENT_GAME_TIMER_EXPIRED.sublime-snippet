@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_GAME_TIMER_EXPIRED]]></content>
+	<tabTrigger>EVENT_GAME_TIMER_EXPIRED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

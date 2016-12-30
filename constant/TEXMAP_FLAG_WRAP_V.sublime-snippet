@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[TEXMAP_FLAG_WRAP_V]]></content>
+	<tabTrigger>TEXMAP_FLAG_WRAP_V</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

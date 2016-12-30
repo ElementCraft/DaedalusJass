@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[GAME_STATE_DIVINE_INTERVENTION]]></content>
+	<tabTrigger>GAME_STATE_DIVINE_INTERVENTION</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_RANDOM_RACES]]></content>
+	<tabTrigger>MAP_RANDOM_RACES</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

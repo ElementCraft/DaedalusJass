@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_STATE_FOOD_CAP_CEILING]]></content>
+	<tabTrigger>PLAYER_STATE_FOOD_CAP_CEILING</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[ITEM_TYPE_MISCELLANEOUS]]></content>
+	<tabTrigger>ITEM_TYPE_MISCELLANEOUS</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

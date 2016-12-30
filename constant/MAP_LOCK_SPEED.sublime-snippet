@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_LOCK_SPEED]]></content>
+	<tabTrigger>MAP_LOCK_SPEED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_PLAYER_HERO_REVIVE_CANCEL]]></content>
+	<tabTrigger>EVENT_PLAYER_HERO_REVIVE_CANCEL</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

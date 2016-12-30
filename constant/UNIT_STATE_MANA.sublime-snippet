@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[UNIT_STATE_MANA]]></content>
+	<tabTrigger>UNIT_STATE_MANA</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

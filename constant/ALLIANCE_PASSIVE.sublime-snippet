@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[ALLIANCE_PASSIVE]]></content>
+	<tabTrigger>ALLIANCE_PASSIVE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

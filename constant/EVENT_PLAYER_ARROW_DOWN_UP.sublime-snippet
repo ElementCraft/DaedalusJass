@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_PLAYER_ARROW_DOWN_UP]]></content>
+	<tabTrigger>EVENT_PLAYER_ARROW_DOWN_UP</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

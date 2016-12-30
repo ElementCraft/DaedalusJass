@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_SCORE_UNITS_TRAINED]]></content>
+	<tabTrigger>PLAYER_SCORE_UNITS_TRAINED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_STATE_OBSERVER_ON_DEATH]]></content>
+	<tabTrigger>PLAYER_STATE_OBSERVER_ON_DEATH</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

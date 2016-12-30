@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_ALLIANCE_CHANGES_HIDDEN]]></content>
+	<tabTrigger>MAP_ALLIANCE_CHANGES_HIDDEN</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

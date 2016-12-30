@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[JASS_MAX_ARRAY_SIZE]]></content>
+	<tabTrigger>JASS_MAX_ARRAY_SIZE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

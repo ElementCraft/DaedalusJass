@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[UNIT_TYPE_TOWNHALL]]></content>
+	<tabTrigger>UNIT_TYPE_TOWNHALL</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

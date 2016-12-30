@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_STATE_LUMBER_UPKEEP_RATE]]></content>
+	<tabTrigger>PLAYER_STATE_LUMBER_UPKEEP_RATE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

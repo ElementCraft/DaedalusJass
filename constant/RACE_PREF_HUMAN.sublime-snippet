@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[RACE_PREF_HUMAN]]></content>
+	<tabTrigger>RACE_PREF_HUMAN</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

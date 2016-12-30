@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[WEAPON_TYPE_CLAW_MEDIUM_SLICE]]></content>
+	<tabTrigger>WEAPON_TYPE_CLAW_MEDIUM_SLICE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

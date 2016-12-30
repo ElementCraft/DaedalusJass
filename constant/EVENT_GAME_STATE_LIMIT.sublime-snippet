@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_GAME_STATE_LIMIT]]></content>
+	<tabTrigger>EVENT_GAME_STATE_LIMIT</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

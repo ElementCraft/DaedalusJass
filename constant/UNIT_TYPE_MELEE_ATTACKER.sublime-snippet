@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[UNIT_TYPE_MELEE_ATTACKER]]></content>
+	<tabTrigger>UNIT_TYPE_MELEE_ATTACKER</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

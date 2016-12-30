@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[UNIT_STATE_LIFE]]></content>
+	<tabTrigger>UNIT_STATE_LIFE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

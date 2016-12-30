@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_GAME_RESULT_DEFEAT]]></content>
+	<tabTrigger>PLAYER_GAME_RESULT_DEFEAT</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

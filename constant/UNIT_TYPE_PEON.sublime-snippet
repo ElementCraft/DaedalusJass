@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[UNIT_TYPE_PEON]]></content>
+	<tabTrigger>UNIT_TYPE_PEON</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

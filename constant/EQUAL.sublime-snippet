@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EQUAL]]></content>
+	<tabTrigger>EQUAL</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_PLAYER_UNIT_UPGRADE_CANCEL]]></content>
+	<tabTrigger>EVENT_PLAYER_UNIT_UPGRADE_CANCEL</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

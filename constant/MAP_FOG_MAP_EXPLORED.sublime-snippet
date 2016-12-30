@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_FOG_MAP_EXPLORED]]></content>
+	<tabTrigger>MAP_FOG_MAP_EXPLORED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

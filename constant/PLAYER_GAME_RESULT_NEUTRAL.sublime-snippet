@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_GAME_RESULT_NEUTRAL]]></content>
+	<tabTrigger>PLAYER_GAME_RESULT_NEUTRAL</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[UNIT_TYPE_FLYING]]></content>
+	<tabTrigger>UNIT_TYPE_FLYING</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

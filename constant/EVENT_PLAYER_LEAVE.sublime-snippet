@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_PLAYER_LEAVE]]></content>
+	<tabTrigger>EVENT_PLAYER_LEAVE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

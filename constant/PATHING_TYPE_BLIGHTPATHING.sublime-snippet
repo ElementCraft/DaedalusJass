@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PATHING_TYPE_BLIGHTPATHING]]></content>
+	<tabTrigger>PATHING_TYPE_BLIGHTPATHING</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

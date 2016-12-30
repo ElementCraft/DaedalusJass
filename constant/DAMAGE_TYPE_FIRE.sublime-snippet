@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[DAMAGE_TYPE_FIRE]]></content>
+	<tabTrigger>DAMAGE_TYPE_FIRE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

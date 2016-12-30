@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_CONTROL_RESCUABLE]]></content>
+	<tabTrigger>MAP_CONTROL_RESCUABLE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

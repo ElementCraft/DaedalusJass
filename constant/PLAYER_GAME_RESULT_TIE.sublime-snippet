@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_GAME_RESULT_TIE]]></content>
+	<tabTrigger>PLAYER_GAME_RESULT_TIE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

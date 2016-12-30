@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_GAME_ENTER_REGION]]></content>
+	<tabTrigger>EVENT_GAME_ENTER_REGION</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

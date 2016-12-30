@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_SHARED_ADVANCED_CONTROL]]></content>
+	<tabTrigger>MAP_SHARED_ADVANCED_CONTROL</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

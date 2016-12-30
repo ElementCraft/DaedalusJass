@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_UNIT_SPELL_ENDCAST]]></content>
+	<tabTrigger>EVENT_UNIT_SPELL_ENDCAST</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

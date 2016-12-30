@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PATHING_TYPE_FLOATABILITY]]></content>
+	<tabTrigger>PATHING_TYPE_FLOATABILITY</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

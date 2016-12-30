@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_DIFFICULTY_NORMAL]]></content>
+	<tabTrigger>MAP_DIFFICULTY_NORMAL</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

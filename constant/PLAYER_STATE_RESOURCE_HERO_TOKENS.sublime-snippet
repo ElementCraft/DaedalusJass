@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_STATE_RESOURCE_HERO_TOKENS]]></content>
+	<tabTrigger>PLAYER_STATE_RESOURCE_HERO_TOKENS</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

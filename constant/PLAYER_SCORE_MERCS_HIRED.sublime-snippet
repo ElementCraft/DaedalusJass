@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_SCORE_MERCS_HIRED]]></content>
+	<tabTrigger>PLAYER_SCORE_MERCS_HIRED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

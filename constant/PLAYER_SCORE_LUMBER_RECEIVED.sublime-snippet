@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_SCORE_LUMBER_RECEIVED]]></content>
+	<tabTrigger>PLAYER_SCORE_LUMBER_RECEIVED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_STATE_PLACED]]></content>
+	<tabTrigger>PLAYER_STATE_PLACED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PATHING_TYPE_WALKABILITY]]></content>
+	<tabTrigger>PATHING_TYPE_WALKABILITY</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

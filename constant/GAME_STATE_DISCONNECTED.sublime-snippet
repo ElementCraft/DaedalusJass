@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[GAME_STATE_DISCONNECTED]]></content>
+	<tabTrigger>GAME_STATE_DISCONNECTED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

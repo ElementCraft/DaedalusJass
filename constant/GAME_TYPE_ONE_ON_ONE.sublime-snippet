@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[GAME_TYPE_ONE_ON_ONE]]></content>
+	<tabTrigger>GAME_TYPE_ONE_ON_ONE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

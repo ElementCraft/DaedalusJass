@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[TEXMAP_FLAG_NONE]]></content>
+	<tabTrigger>TEXMAP_FLAG_NONE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

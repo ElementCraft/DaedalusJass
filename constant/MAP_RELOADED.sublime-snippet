@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_RELOADED]]></content>
+	<tabTrigger>MAP_RELOADED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

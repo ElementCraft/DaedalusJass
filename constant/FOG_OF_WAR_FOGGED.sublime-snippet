@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[FOG_OF_WAR_FOGGED]]></content>
+	<tabTrigger>FOG_OF_WAR_FOGGED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

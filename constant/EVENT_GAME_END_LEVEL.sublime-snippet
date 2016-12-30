@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_GAME_END_LEVEL]]></content>
+	<tabTrigger>EVENT_GAME_END_LEVEL</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

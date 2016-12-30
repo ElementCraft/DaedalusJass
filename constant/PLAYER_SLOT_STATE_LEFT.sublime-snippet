@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_SLOT_STATE_LEFT]]></content>
+	<tabTrigger>PLAYER_SLOT_STATE_LEFT</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

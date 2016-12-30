@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[UNIT_TYPE_POLYMORPHED]]></content>
+	<tabTrigger>UNIT_TYPE_POLYMORPHED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_SCORE_STRUCT_BUILT]]></content>
+	<tabTrigger>PLAYER_SCORE_STRUCT_BUILT</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

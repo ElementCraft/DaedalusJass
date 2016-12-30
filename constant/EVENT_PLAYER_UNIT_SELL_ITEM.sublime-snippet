@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_PLAYER_UNIT_SELL_ITEM]]></content>
+	<tabTrigger>EVENT_PLAYER_UNIT_SELL_ITEM</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

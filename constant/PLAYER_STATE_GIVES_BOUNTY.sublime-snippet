@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_STATE_GIVES_BOUNTY]]></content>
+	<tabTrigger>PLAYER_STATE_GIVES_BOUNTY</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

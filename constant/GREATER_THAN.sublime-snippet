@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[GREATER_THAN]]></content>
+	<tabTrigger>GREATER_THAN</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[UNIT_TYPE_SUMMONED]]></content>
+	<tabTrigger>UNIT_TYPE_SUMMONED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_STATE_RESOURCE_FOOD_CAP]]></content>
+	<tabTrigger>PLAYER_STATE_RESOURCE_FOOD_CAP</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

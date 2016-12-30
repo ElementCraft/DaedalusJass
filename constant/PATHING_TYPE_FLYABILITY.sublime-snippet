@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PATHING_TYPE_FLYABILITY]]></content>
+	<tabTrigger>PATHING_TYPE_FLYABILITY</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

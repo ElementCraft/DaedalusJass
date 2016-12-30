@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_GAME_SHOW_SKILL]]></content>
+	<tabTrigger>EVENT_GAME_SHOW_SKILL</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

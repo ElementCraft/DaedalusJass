@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[DAMAGE_TYPE_MAGIC]]></content>
+	<tabTrigger>DAMAGE_TYPE_MAGIC</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

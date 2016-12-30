@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[ITEM_TYPE_CAMPAIGN]]></content>
+	<tabTrigger>ITEM_TYPE_CAMPAIGN</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

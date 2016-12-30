@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_GAME_TRACKABLE_HIT]]></content>
+	<tabTrigger>EVENT_GAME_TRACKABLE_HIT</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[RACE_PREF_USER_SELECTABLE]]></content>
+	<tabTrigger>RACE_PREF_USER_SELECTABLE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

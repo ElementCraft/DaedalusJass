@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[CAMERA_FIELD_ZOFFSET]]></content>
+	<tabTrigger>CAMERA_FIELD_ZOFFSET</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

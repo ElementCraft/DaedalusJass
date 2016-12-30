@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_WIDGET_DEATH]]></content>
+	<tabTrigger>EVENT_WIDGET_DEATH</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

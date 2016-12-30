@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[WEAPON_TYPE_WHOKNOWS]]></content>
+	<tabTrigger>WEAPON_TYPE_WHOKNOWS</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

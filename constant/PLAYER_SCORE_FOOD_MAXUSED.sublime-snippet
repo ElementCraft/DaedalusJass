@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_SCORE_FOOD_MAXUSED]]></content>
+	<tabTrigger>PLAYER_SCORE_FOOD_MAXUSED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

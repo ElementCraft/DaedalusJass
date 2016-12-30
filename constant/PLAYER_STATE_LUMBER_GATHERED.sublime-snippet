@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_STATE_LUMBER_GATHERED]]></content>
+	<tabTrigger>PLAYER_STATE_LUMBER_GATHERED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

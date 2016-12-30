@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[ITEM_TYPE_PERMANENT]]></content>
+	<tabTrigger>ITEM_TYPE_PERMANENT</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

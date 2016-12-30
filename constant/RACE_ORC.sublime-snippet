@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[RACE_ORC]]></content>
+	<tabTrigger>RACE_ORC</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

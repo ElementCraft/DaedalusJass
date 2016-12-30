@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[CAMERA_FIELD_TARGET_DISTANCE]]></content>
+	<tabTrigger>CAMERA_FIELD_TARGET_DISTANCE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

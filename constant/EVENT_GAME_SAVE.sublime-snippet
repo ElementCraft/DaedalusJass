@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_GAME_SAVE]]></content>
+	<tabTrigger>EVENT_GAME_SAVE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

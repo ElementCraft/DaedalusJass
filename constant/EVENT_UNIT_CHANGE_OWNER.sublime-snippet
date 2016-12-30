@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_UNIT_CHANGE_OWNER]]></content>
+	<tabTrigger>EVENT_UNIT_CHANGE_OWNER</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

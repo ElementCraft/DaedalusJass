@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_STATE_OBSERVER]]></content>
+	<tabTrigger>PLAYER_STATE_OBSERVER</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

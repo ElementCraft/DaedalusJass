@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[SOUND_VOLUMEGROUP_UI]]></content>
+	<tabTrigger>SOUND_VOLUMEGROUP_UI</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

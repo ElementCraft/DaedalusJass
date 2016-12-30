@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_FOG_ALWAYS_VISIBLE]]></content>
+	<tabTrigger>MAP_FOG_ALWAYS_VISIBLE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

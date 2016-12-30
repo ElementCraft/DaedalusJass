@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_RESOURCE_TRADING_ALLIES_ONLY]]></content>
+	<tabTrigger>MAP_RESOURCE_TRADING_ALLIES_ONLY</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

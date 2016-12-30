@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_CONTROL_CREEP]]></content>
+	<tabTrigger>MAP_CONTROL_CREEP</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

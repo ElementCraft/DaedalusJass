@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_PLAYER_VICTORY]]></content>
+	<tabTrigger>EVENT_PLAYER_VICTORY</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

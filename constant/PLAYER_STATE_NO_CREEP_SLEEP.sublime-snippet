@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_STATE_NO_CREEP_SLEEP]]></content>
+	<tabTrigger>PLAYER_STATE_NO_CREEP_SLEEP</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

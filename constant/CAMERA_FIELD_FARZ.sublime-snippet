@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[CAMERA_FIELD_FARZ]]></content>
+	<tabTrigger>CAMERA_FIELD_FARZ</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

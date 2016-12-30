@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[ATTACK_TYPE_MAGIC]]></content>
+	<tabTrigger>ATTACK_TYPE_MAGIC</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

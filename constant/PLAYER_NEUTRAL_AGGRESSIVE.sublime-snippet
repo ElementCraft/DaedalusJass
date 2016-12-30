@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_NEUTRAL_AGGRESSIVE]]></content>
+	<tabTrigger>PLAYER_NEUTRAL_AGGRESSIVE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

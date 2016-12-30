@@ -1,0 +1,10 @@
+<snippet>
+	<name>Loop</name>
+    <content><![CDATA[loop
+	$2
+exitwhen ${1:i>11}
+	$0
+endloop]]></content>
+    <tabTrigger>loop</tabTrigger>
+    <scope>source.j, source.jass</scope>
+</snippet>

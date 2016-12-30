@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[GREATER_THAN_OR_EQUAL]]></content>
+	<tabTrigger>GREATER_THAN_OR_EQUAL</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_DENSITY_NONE]]></content>
+	<tabTrigger>MAP_DENSITY_NONE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

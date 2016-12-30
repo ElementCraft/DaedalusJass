@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[UNIT_TYPE_DEAD]]></content>
+	<tabTrigger>UNIT_TYPE_DEAD</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[VERSION_REIGN_OF_CHAOS]]></content>
+	<tabTrigger>VERSION_REIGN_OF_CHAOS</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

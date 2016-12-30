@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[BLEND_MODE_KEYALPHA]]></content>
+	<tabTrigger>BLEND_MODE_KEYALPHA</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

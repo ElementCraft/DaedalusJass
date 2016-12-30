@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_DIALOG_BUTTON_CLICK]]></content>
+	<tabTrigger>EVENT_DIALOG_BUTTON_CLICK</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

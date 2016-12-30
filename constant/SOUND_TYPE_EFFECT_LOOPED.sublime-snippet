@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[SOUND_TYPE_EFFECT_LOOPED]]></content>
+	<tabTrigger>SOUND_TYPE_EFFECT_LOOPED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[ITEM_TYPE_POWERUP]]></content>
+	<tabTrigger>ITEM_TYPE_POWERUP</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

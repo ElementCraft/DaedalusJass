@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PATHING_TYPE_BUILDABILITY]]></content>
+	<tabTrigger>PATHING_TYPE_BUILDABILITY</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

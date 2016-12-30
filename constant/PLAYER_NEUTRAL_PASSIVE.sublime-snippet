@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_NEUTRAL_PASSIVE]]></content>
+	<tabTrigger>PLAYER_NEUTRAL_PASSIVE</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

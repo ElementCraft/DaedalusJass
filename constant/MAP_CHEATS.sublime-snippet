@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_CHEATS]]></content>
+	<tabTrigger>MAP_CHEATS</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

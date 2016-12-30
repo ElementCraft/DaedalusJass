@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PATHING_TYPE_PEONHARVESTPATHING]]></content>
+	<tabTrigger>PATHING_TYPE_PEONHARVESTPATHING</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_SCORE_HEROES_KILLED]]></content>
+	<tabTrigger>PLAYER_SCORE_HEROES_KILLED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

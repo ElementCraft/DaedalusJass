@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_FIXED_COLORS]]></content>
+	<tabTrigger>MAP_FIXED_COLORS</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

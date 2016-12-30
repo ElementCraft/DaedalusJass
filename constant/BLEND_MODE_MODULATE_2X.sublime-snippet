@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[BLEND_MODE_MODULATE_2X]]></content>
+	<tabTrigger>BLEND_MODE_MODULATE_2X</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

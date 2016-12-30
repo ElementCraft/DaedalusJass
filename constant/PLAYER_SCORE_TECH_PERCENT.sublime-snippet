@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[PLAYER_SCORE_TECH_PERCENT]]></content>
+	<tabTrigger>PLAYER_SCORE_TECH_PERCENT</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

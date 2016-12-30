@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_UNIT_ATTACKED]]></content>
+	<tabTrigger>EVENT_UNIT_ATTACKED</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

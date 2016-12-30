@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[MAP_USE_HANDICAPS]]></content>
+	<tabTrigger>MAP_USE_HANDICAPS</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

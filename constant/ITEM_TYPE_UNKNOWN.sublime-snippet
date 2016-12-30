@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[ITEM_TYPE_UNKNOWN]]></content>
+	<tabTrigger>ITEM_TYPE_UNKNOWN</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

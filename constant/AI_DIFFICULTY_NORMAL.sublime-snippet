@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[AI_DIFFICULTY_NORMAL]]></content>
+	<tabTrigger>AI_DIFFICULTY_NORMAL</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

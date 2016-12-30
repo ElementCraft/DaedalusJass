@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[RARITY_FREQUENT]]></content>
+	<tabTrigger>RARITY_FREQUENT</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

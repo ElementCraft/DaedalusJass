@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EFFECT_TYPE_CASTER]]></content>
+	<tabTrigger>EFFECT_TYPE_CASTER</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

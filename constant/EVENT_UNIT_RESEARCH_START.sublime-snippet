@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[EVENT_UNIT_RESEARCH_START]]></content>
+	<tabTrigger>EVENT_UNIT_RESEARCH_START</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>

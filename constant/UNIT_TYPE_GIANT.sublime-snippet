@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[UNIT_TYPE_GIANT]]></content>
+	<tabTrigger>UNIT_TYPE_GIANT</tabTrigger>
+	<scope>source.jass,source.j</scope>
+</snippet>
